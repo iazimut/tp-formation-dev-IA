@@ -57,11 +57,3 @@ Pour utiliser ce projet, veuillez ouvrir le notebook `medical_expenses_predictio
 2. Exécuter les cellules dans l'ordre
 3. Les résultats et visualisations seront générés automatiquement
 
-## Prochaines Améliorations
-- [ ] Ajout de nouvelles features
-- [ ] Implémentation d'un ensemble stacking
-- [ ] Développement d'une API REST
-- [ ] Interface utilisateur web
-- [ ] Tests unitaires
-- [ ] Documentation détaillée
-
