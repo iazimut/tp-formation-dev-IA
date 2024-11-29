@@ -10,7 +10,7 @@ Ce projet implémente une segmentation RFM (Recency, Frequency, Monetary) pour a
 - Analyse des caractéristiques de chaque segment
 
 ## Prérequis
-- Python 3.8+
+- Python
 - Pandas
 - Scikit-learn
 - Matplotlib
