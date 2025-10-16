@@ -1,6 +1,20 @@
-# Projet Optuna - Optimisation Random Forest
+# 🎯 Projet Optuna - Optimisation Random Forest
 
-Ce projet utilise **Optuna** pour optimiser les hyperparamètres d'un classificateur Random Forest sur le dataset de cancer du sein.
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Optuna](https://img.shields.io/badge/optuna-4.5.0-orange.svg)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1.6.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+Projet d'optimisation d'hyperparamètres utilisant **Optuna** pour un classificateur Random Forest sur le dataset de cancer du sein (Breast Cancer Wisconsin). Ce projet démontre comment utiliser Optuna pour trouver automatiquement les meilleurs hyperparamètres et atteindre **96.26% de précision**.
+
+## ✨ Caractéristiques
+
+- 🔍 **Optimisation automatique** avec 50 trials Optuna
+- 📊 **Dashboard interactif** pour explorer les résultats
+- 📈 **Visualisations détaillées** de l'optimisation
+- 🎯 **96.26% de précision** sur la validation croisée
+- 📝 **Code documenté** et facile à comprendre
+- 🚀 **Prêt à l'emploi** avec vos propres données
 
 ## 📊 Résultats
 
@@ -108,6 +122,19 @@ weighted avg       0.97      0.96      0.96       114
  [ 1 70]]
 ```
 
+## 📸 Visualisations
+
+Le projet génère automatiquement plusieurs visualisations :
+
+### Historique d'Optimisation
+![Optimization History](optimization_history.png)
+
+### Importance des Paramètres
+![Parameter Importances](param_importances.png)
+
+### Graphique de Contour
+![Contour Plot](contour_plot.png)
+
 ## 🔍 Fichiers Générés
 
 - `optuna_study.db` : Base de données SQLite contenant tous les trials
@@ -115,9 +142,26 @@ weighted avg       0.97      0.96      0.96       114
 - `param_importances.png` : Importance relative de chaque hyperparamètre
 - `contour_plot.png` : Relations entre les hyperparamètres
 
+## 🤝 Contribution
+
+Les contributions sont les bienvenues ! N'hésitez pas à :
+- 🐛 Signaler des bugs
+- 💡 Proposer de nouvelles fonctionnalités
+- 📖 Améliorer la documentation
+- 🔧 Soumettre des pull requests
+
+## 📝 License
+
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
 ## 📚 Ressources
 
 - [Documentation Optuna](https://optuna.readthedocs.io)
 - [Exemples Optuna](https://github.com/optuna/optuna-examples)
 - [Scikit-learn](https://scikit-learn.org)
+- [Breast Cancer Dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset)
+
+## ⭐ Support
+
+Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile ⭐ !
 
