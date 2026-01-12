@@ -14,7 +14,14 @@ release = '0.1.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_rtd_theme']
+extensions = [
+    'sphinx_rtd_theme',
+    'sphinx.ext.autodoc',  # Pour extraire la doc de ton code
+    'sphinx.ext.napoleon', # Pour supporter les docstrings style Google/NumPy
+    'sphinx.ext.mathjax', # Pour latex 
+    "sphinx.ext.viewcode",
+    "myst_parser",    
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
