@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: exo-kubernetes-deployment
+
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: exo-kubernetes
+  template:
+    metadata:
+      labels:
+        app: exo-kubernetes
+    spec:
+      containers:
+        - name: exo-kubernetes
+          image: sebastiengerard/exo-kubernetes:latest
+          ports:
+            - containerPort: 80
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 80
+            initialDelaySeconds: 5
+            periodSeconds: 5
