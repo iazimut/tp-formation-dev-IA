@@ -50,7 +50,18 @@ Chaque dossier correspond à un ancien dépôt GitHub, importé ici avec tout so
 | [dbscan](machine-learning/dbscan) | Clustering avec DBSCAN |
 | [optuna_test](machine-learning/optuna_test) | Optimisation des hyperparamètres d'un Random Forest avec Optuna |
 | [tp_kedro_weather](machine-learning/tp_kedro_weather) | Pipeline de données météo avec Kedro |
-| [pytorch_malaria_custom](machine-learning/pytorch_malaria_custom) | Détection du paludisme avec un modèle PyTorch |
+| [segmentation-client-retail](machine-learning/segmentation-client-retail) | Segmentation RFM de clients d'un site de vente en ligne |
+| [prediction-frais-medicaux](machine-learning/prediction-frais-medicaux) | Prédiction des frais médicaux annuels de patients |
+| [prediction-eligibilite-credit-banque](machine-learning/prediction-eligibilite-credit-banque) | Prédiction de l'éligibilité d'un client à un crédit bancaire |
+| [medicalcost](machine-learning/medicalcost) | InsureCost Analytics : analyse et prédiction des coûts d'assurance santé, avec MLflow et Docker |
+
+## Deep learning
+
+| Dossier | Contenu |
+|---|---|
+| [pytorch_malaria_custom](deep-learning/pytorch_malaria_custom) | Détection du paludisme avec un modèle PyTorch |
+| [malariadetector](deep-learning/malariadetector) | Détection du paludisme sur images de cellules sanguines, application conteneurisée avec Docker |
+| [Doggy-and-Cat-adventure](deep-learning/Doggy-and-Cat-adventure) | Classification audio de sons de chiens et de chats |
 
 ## IA générative
 
