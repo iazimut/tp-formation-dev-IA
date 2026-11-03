@@ -84,8 +84,9 @@ def delete_user(user_id):
 
 
 
-# URL de l'API JCDecaux
-API_URL = 'https://api.jcdecaux.com/vls/v1/stations?contract=nancy&apiKey=CLE_API_SUPPRIMEE'
+# URL de l'API JCDecaux (clé lue dans la variable d'environnement JCDECAUX_API_KEY)
+JCDECAUX_API_KEY = os.environ.get('JCDECAUX_API_KEY')
+API_URL = f'https://api.jcdecaux.com/vls/v1/stations?contract=nancy&apiKey={JCDECAUX_API_KEY}'
 
 # Seuils pour définir une station surchargée ou sous-alimentée
 SEUIL_SURCHARGE = 0.25
