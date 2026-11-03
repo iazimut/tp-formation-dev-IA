@@ -1,0 +1,2001 @@
+organes,sequence,description_irm
+poumons,TOF,Étude TOF du poumons
+pancréas,3D,IRM fonctionnelle 3D du pancréas
+épaule,ADC,ADC épaule sans injection
+pelvis,T1,Séquence dynamique T1 pour pelvis
+genou,T1,IRM genou - séquence T1
+cerveau,BLADE,IRM cerveau séquence BLADE post-contraste
+pancréas,3D,Séquence dynamique 3D pour pancréas
+cerveau,DWI,Étude DWI du cerveau
+épaule,3D,3D épaule sans injection
+pancréas,DWI,IRM fonctionnelle DWI du pancréas
+coeur,BLADE,IRM BLADE coeur avec injection
+coeur,SWI,IRM SWI coeur avec injection
+pelvis,ADC,IRM pelvis - séquence ADC
+coeur,3D,Coupes 3D du coeur
+genou,TOF,IRM TOF axiale genou
+rachis,DWI,DWI rachis sans injection
+pancréas,CISS,IRM CISS axiale pancréas
+pancréas,3D,IRM pancréas séquence 3D post-contraste
+poumons,SWI,IRM poumons - séquence SWI
+épaule,3D,IRM fonctionnelle 3D du épaule
+reins,FLAIR,IRM FLAIR reins avec injection
+pelvis,T1,T1 dynamique ciblée sur pelvis
+foie,ADC,IRM fonctionnelle ADC du foie
+pelvis,SWI,IRM pelvis séquence SWI post-contraste
+pancréas,BLADE,Séquence dynamique BLADE pour pancréas
+genou,T1,T1 genou sans injection
+pelvis,CISS,Séquence CISS centrée sur le pelvis
+genou,SWI,SWI genou sans injection
+pelvis,3D,Séquence 3D centrée sur le pelvis
+cerveau,TOF,Étude TOF du cerveau
+poumons,T1,Coupes T1 du poumons
+rachis,SWI,SWI rachis sans injection
+foie,DWI,DWI dynamique ciblée sur foie
+épaule,FLAIR,Séquence dynamique FLAIR pour épaule
+pancréas,CISS,Coupes CISS du pancréas
+reins,ADC,Étude ADC du reins
+pancréas,DWI,IRM fonctionnelle DWI du pancréas
+coeur,CISS,IRM CISS coeur avec injection
+coeur,BLADE,IRM coeur séquence BLADE post-contraste
+genou,CISS,Séquence CISS centrée sur le genou
+reins,ADC,IRM reins - séquence ADC
+pelvis,TOF,TOF pelvis sans injection
+rachis,ADC,IRM rachis séquence ADC post-contraste
+coeur,T1,T1 dynamique ciblée sur coeur
+coeur,T1,IRM T1 axiale coeur
+genou,CISS,Coupes CISS du genou
+foie,T1,IRM foie - séquence T1
+pelvis,TOF,IRM pelvis séquence TOF post-contraste
+foie,BLADE,BLADE foie sans injection
+reins,T2,IRM reins séquence T2 post-contraste
+pancréas,TOF,IRM TOF pancréas avec injection
+poumons,BLADE,Séquence BLADE centrée sur le poumons
+reins,DWI,DWI dynamique ciblée sur reins
+foie,TOF,Séquence TOF centrée sur le foie
+poumons,T2,IRM T2 poumons avec injection
+foie,ADC,ADC foie sans injection
+rachis,BLADE,Coupes BLADE du rachis
+foie,TOF,IRM TOF foie avec injection
+poumons,T1,T1 poumons sans injection
+pancréas,BLADE,IRM BLADE axiale pancréas
+foie,DWI,DWI dynamique ciblée sur foie
+cerveau,DWI,IRM cerveau - séquence DWI
+épaule,T1,IRM T1 axiale épaule
+foie,T2,IRM foie - séquence T2
+pancréas,BLADE,Séquence BLADE centrée sur le pancréas
+cerveau,3D,Séquence 3D centrée sur le cerveau
+coeur,BLADE,Coupes BLADE du coeur
+épaule,3D,3D épaule sans injection
+reins,T1,T1 dynamique ciblée sur reins
+coeur,TOF,IRM coeur - séquence TOF
+foie,CISS,IRM foie - séquence CISS
+genou,FLAIR,IRM genou - séquence FLAIR
+poumons,ADC,Étude ADC du poumons
+pancréas,T1,Séquence T1 centrée sur le pancréas
+poumons,FLAIR,IRM FLAIR poumons avec injection
+reins,3D,Coupes 3D du reins
+épaule,DWI,IRM DWI épaule avec injection
+genou,ADC,IRM genou séquence ADC post-contraste
+cerveau,CISS,CISS dynamique ciblée sur cerveau
+coeur,DWI,IRM coeur - séquence DWI
+rachis,3D,3D rachis sans injection
+foie,3D,Étude 3D du foie
+coeur,SWI,Étude SWI du coeur
+cerveau,T1,T1 cerveau sans injection
+pancréas,SWI,Séquence dynamique SWI pour pancréas
+genou,T2,IRM genou séquence T2 post-contraste
+épaule,T2,IRM T2 axiale épaule
+pancréas,3D,3D dynamique ciblée sur pancréas
+coeur,TOF,Séquence dynamique TOF pour coeur
+reins,FLAIR,IRM reins - séquence FLAIR
+genou,SWI,IRM genou séquence SWI post-contraste
+pelvis,DWI,IRM DWI axiale pelvis
+cerveau,3D,IRM 3D axiale cerveau
+cerveau,DWI,DWI cerveau sans injection
+pancréas,DWI,IRM DWI pancréas avec injection
+reins,TOF,IRM TOF reins avec injection
+pancréas,3D,Étude 3D du pancréas
+pelvis,CISS,Séquence CISS centrée sur le pelvis
+genou,DWI,IRM DWI axiale genou
+genou,SWI,SWI dynamique ciblée sur genou
+épaule,T1,T1 dynamique ciblée sur épaule
+coeur,DWI,Coupes DWI du coeur
+cerveau,TOF,IRM fonctionnelle TOF du cerveau
+reins,DWI,Séquence DWI centrée sur le reins
+pelvis,TOF,IRM TOF pelvis avec injection
+genou,DWI,IRM DWI genou avec injection
+épaule,FLAIR,Séquence dynamique FLAIR pour épaule
+cerveau,CISS,Coupes CISSOR d'Edward aux Mains d'Argent
+rachis,DWI,Coupe DWI JAUNE PIPI de Donald TRUMP
+épaule,3D,IRM 3D axiale épaule
+pancréas,3D,3D pancréas sans injection
+rachis,DWI,Étude DWI du rachis
+cerveau,SWI,Coupes SWI du cerveau
+reins,CISS,CISS dynamique ciblée sur reins
+pelvis,FLAIR,IRM FLAIR axiale pelvis
+pelvis,FLAIR,Étude FLAIR du Pelvis Presley
+rachis,T2,IRM fonctionnelle T2 du rachis
+genou,BLADE,IRM BLADE axiale genou
+pelvis,ADC,Coupes ADC du pelvis
+pancréas,T2,Séquence dynamique T2 pour pancréas
+foie,SWI,IRM fonctionnelle SWI du foie
+reins,TOF,IRM TOF reins avec injection
+reins,DWI,Coupes DWI du reins
+poumons,T1,IRM poumons - séquence T1
+rachis,T2,Séquence dynamique T2 pour rachis
+rachis,DWI,Coupes DWI du rachis
+pancréas,T1,T1 pancréas sans injection
+pelvis,DWI,IRM pelvis - séquence DWI
+genou,T1,IRM T1 genou avec injection
+pancréas,DWI,DWI pancréas sans injection
+reins,FLAIR,IRM FLAIR axiale reins
+foie,ADC,ADC foie sans injection
+poumons,ADC,IRM ADC axiale poumons
+épaule,TOF,Coupes TOF du épaule
+épaule,T2,Coupes T2 du épaule
+rachis,TOF,IRM rachis - séquence TOF
+reins,DWI,IRM reins - séquence DWI
+pancréas,CISS,IRM pancréas séquence CISS post-contraste
+pancréas,T2,Séquence T2 centrée sur le pancréas
+genou,T2,Séquence T2 centrée sur le genou
+pancréas,T1,Séquence dynamique T1 pour pancréas
+foie,FLAIR,IRM foie séquence FLAIR post-contraste
+pelvis,T1,Séquence dynamique T1 pour pelvis
+pancréas,BLADE,Coupes BLADE du pancréas
+pelvis,T1,Étude T1 du pelvis
+genou,T2,Séquence dynamique T2 pour genou
+pancréas,T2,IRM pancréas séquence T2 post-contraste
+cerveau,FLAIR,IRM fonctionnelle FLAIR du cerveau
+épaule,TOF,TOF dynamique ciblée sur épaule
+cerveau,ADC,ADC dynamique ciblée sur cerveau
+pelvis,FLAIR,IRM FLAIR axiale pelvis
+foie,T1,IRM foie séquence T1 post-contraste
+épaule,CISS,Étude CISS du épaule
+cerveau,T1,Étude T1 du cerveau
+rachis,ADC,Coupes ADC du rachis
+genou,T1,T1 genou sans injection
+pelvis,FLAIR,FLAIR dynamique ciblée sur pelvis
+genou,FLAIR,IRM FLAIR genou avec injection
+reins,FLAIR,Coupes FLAIR du reins
+pancréas,T2,T2 pancréas sans injection
+coeur,BLADE,IRM BLADE coeur avec injection
+rachis,TOF,IRM TOF axiale rachis
+reins,DWI,Séquence DWI centrée sur le reins
+pancréas,BLADE,IRM pancréas séquence BLADE post-contraste
+coeur,3D,IRM fonctionnelle 3D du coeur
+coeur,BLADE,BLADE coeur sans injection
+rachis,FLAIR,FLAIR dynamique ciblée sur rachis
+coeur,TOF,TOF coeur sans injection
+reins,ADC,IRM reins séquence ADC post-contraste
+foie,ADC,Étude ADC du foie
+pancréas,TOF,IRM TOF axiale pancréas
+genou,T2,IRM T2 axiale genou
+coeur,DWI,IRM fonctionnelle DWI du coeur
+genou,DWI,IRM fonctionnelle DWI du genou
+coeur,3D,3D coeur sans injection
+épaule,FLAIR,FLAIR épaule sans injection
+pancréas,CISS,IRM fonctionnelle CISS du pancréas
+pelvis,CISS,IRM pelvis - séquence CISS
+pancréas,TOF,Coupes TOF du pancréas
+genou,3D,Séquence dynamique 3D pour genou
+foie,SWI,Étude SWI du foie
+rachis,T2,IRM T2 axiale rachis
+pelvis,CISS,IRM CISS axiale pelvis
+pancréas,CISS,IRM pancréas séquence CISS post-contraste
+reins,DWI,IRM fonctionnelle DWI du reins
+cerveau,TOF,IRM TOF cerveau avec injection
+rachis,TOF,Étude TOF du rachis
+rachis,BLADE,IRM fonctionnelle BLADE du rachis
+rachis,T2,IRM T2 rachis avec injection
+poumons,3D,IRM 3D axiale poumons
+coeur,ADC,IRM coeur séquence ADC post-contraste
+genou,3D,IRM genou - séquence 3D
+poumons,ADC,Coupes ADC du poumons
+pelvis,TOF,IRM TOF axiale pelvis
+foie,CISS,IRM CISS axiale foie
+pancréas,SWI,Étude SWI du pancréas
+genou,SWI,SWI dynamique ciblée sur genou
+coeur,T1,Séquence T1 centrée sur le coeur
+rachis,DWI,IRM fonctionnelle DWI du rachis
+reins,FLAIR,Séquence FLAIR centrée sur le reins
+reins,DWI,DWI reins sans injection
+pelvis,BLADE,IRM BLADE pelvis avec injection
+cerveau,DWI,Séquence DWI centrée sur le cerveau
+coeur,DWI,DWI dynamique ciblée sur coeur
+foie,T2,IRM foie séquence T2 post-contraste
+rachis,FLAIR,Séquence FLAIR centrée sur le rachis
+cerveau,DWI,Séquence dynamique DWI pour cerveau
+pancréas,T1,T1 pancréas sans injection
+coeur,BLADE,Séquence BLADE centrée sur le coeur
+foie,SWI,SWI dynamique ciblée sur foie
+pancréas,CISS,Coupes CISS du pancréas
+reins,CISS,Séquence dynamique CISS pour reins
+poumons,TOF,IRM poumons séquence TOF post-contraste
+pelvis,T2,Étude T2 du pelvis
+genou,T2,T2 dynamique ciblée sur genou
+coeur,T2,IRM coeur - séquence T2
+cerveau,BLADE,Étude BLADE du cerveau
+pancréas,T1,Séquence T1 centrée sur le pancréas
+foie,DWI,DWI dynamique ciblée sur foie
+cerveau,3D,IRM 3D cerveau avec injection
+genou,SWI,Séquence dynamique SWI pour genou
+rachis,T2,T2 rachis sans injection
+pelvis,ADC,Coupes ADC du pelvis
+pancréas,CISS,Étude CISS du pancréas
+poumons,TOF,IRM poumons - séquence TOF
+reins,TOF,Étude TOF du reins
+foie,3D,IRM fonctionnelle 3D du foie
+épaule,SWI,Séquence SWI centrée sur le épaule
+pelvis,3D,Séquence 3D centrée sur le pelvis
+genou,SWI,IRM genou - séquence SWI
+épaule,FLAIR,IRM épaule - séquence FLAIR
+poumons,T2,IRM poumons - séquence T2
+pelvis,SWI,IRM SWI pelvis avec injection
+coeur,FLAIR,Coupes FLAIR du coeur
+pancréas,SWI,Coupes SWI du pancréas
+genou,BLADE,BLADE dynamique ciblée sur genou
+poumons,FLAIR,IRM poumons séquence FLAIR post-contraste
+épaule,BLADE,Coupes BLADE du épaule
+cerveau,FLAIR,Séquence FLAIR centrée sur le cerveau
+coeur,DWI,IRM coeur séquence DWI post-contraste
+coeur,CISS,IRM CISS axiale coeur
+pelvis,TOF,Séquence TOF centrée sur le pelvis
+coeur,DWI,IRM DWI axiale coeur
+foie,3D,IRM 3D foie avec injection
+rachis,DWI,IRM rachis - séquence DWI
+coeur,3D,IRM 3D axiale coeur
+reins,CISS,IRM reins séquence CISS post-contraste
+genou,T1,T1 genou sans injection
+cerveau,T2,IRM T2 axiale cerveau
+épaule,TOF,IRM TOF épaule avec injection
+rachis,CISS,CISS dynamique ciblée sur rachis
+foie,ADC,IRM ADC foie avec injection
+pelvis,T1,IRM pelvis séquence T1 post-contraste
+cerveau,TOF,Étude TOF du cerveau
+reins,3D,3D reins sans injection
+genou,DWI,Étude DWI du genou
+pelvis,CISS,IRM fonctionnelle CISS du pelvis
+reins,ADC,Étude ADC du reins
+pancréas,SWI,SWI dynamique ciblée sur pancréas
+poumons,T1,Séquence T1 centrée sur le poumons
+foie,DWI,Coupes DWI du foie
+cerveau,BLADE,BLADE dynamique ciblée sur cerveau
+genou,DWI,DWI dynamique ciblée sur genou
+reins,3D,Coupes 3D du reins
+genou,FLAIR,FLAIR dynamique ciblée sur genou
+rachis,FLAIR,Coupes FLAIR du rachis
+pancréas,FLAIR,FLAIR dynamique ciblée sur pancréas
+reins,ADC,IRM fonctionnelle ADC du reins
+reins,3D,IRM reins séquence 3D post-contraste
+cerveau,FLAIR,Séquence FLAIR centrée sur le cerveau
+coeur,CISS,IRM CISS coeur avec injection
+reins,DWI,IRM reins séquence DWI post-contraste
+pancréas,3D,Séquence dynamique 3D pour pancréas
+rachis,T1,Séquence T1 centrée sur le rachis
+poumons,CISS,IRM poumons séquence CISS post-contraste
+pancréas,CISS,Coupes CISS du pancréas
+pancréas,SWI,IRM SWI axiale pancréas
+pancréas,DWI,DWI dynamique ciblée sur pancréas
+poumons,ADC,ADC dynamique ciblée sur poumons
+genou,BLADE,BLADE genou sans injection
+poumons,3D,Séquence dynamique 3D pour poumons
+reins,ADC,IRM ADC axiale reins
+épaule,3D,3D épaule sans injection
+cerveau,T1,Séquence T1 centrée sur le cerveau
+épaule,SWI,SWI dynamique ciblée sur épaule
+genou,DWI,IRM fonctionnelle DWI du genou
+foie,3D,IRM fonctionnelle 3D du foie
+rachis,TOF,IRM TOF axiale rachis
+poumons,TOF,IRM TOF axiale poumons
+genou,TOF,Coupes TOF du genou
+cerveau,T1,T1 dynamique ciblée sur cerveau
+coeur,FLAIR,Séquence FLAIR centrée sur le coeur
+poumons,CISS,CISS dynamique ciblée sur poumons
+pelvis,TOF,TOF dynamique ciblée sur pelvis
+reins,FLAIR,IRM reins - séquence FLAIR
+poumons,FLAIR,Étude FLAIR du poumons
+pelvis,BLADE,IRM BLADE pelvis avec injection
+rachis,TOF,Étude TOF du rachis
+reins,DWI,IRM DWI axiale reins
+reins,TOF,Coupes TOF du reins
+cerveau,DWI,Séquence DWI centrée sur le cerveau
+coeur,FLAIR,FLAIR dynamique ciblée sur coeur
+reins,T1,IRM T1 axiale reins
+cerveau,DWI,IRM cerveau - séquence DWI
+reins,BLADE,Coupes BLADE du reins
+épaule,SWI,SWI épaule sans injection
+pancréas,T1,IRM pancréas séquence T1 post-contraste
+épaule,SWI,IRM SWI axiale épaule
+coeur,ADC,IRM coeur séquence ADC post-contraste
+pelvis,T2,T2 pelvis sans injection
+pancréas,T1,Séquence T1 centrée sur le pancréas
+cerveau,BLADE,Séquence dynamique BLADE pour cerveau
+poumons,T2,IRM T2 poumons avec injection
+rachis,CISS,IRM fonctionnelle CISS du rachis
+pancréas,ADC,IRM ADC pancréas avec injection
+foie,SWI,Séquence SWI centrée sur le foie
+cerveau,BLADE,Coupes BLADE du cerveau
+pancréas,ADC,IRM ADC axiale pancréas
+cerveau,FLAIR,Séquence FLAIR centrée sur le cerveau
+épaule,TOF,TOF épaule sans injection
+genou,TOF,IRM fonctionnelle TOF du genou
+épaule,T2,IRM T2 axiale épaule
+foie,T1,T1 dynamique ciblée sur foie
+cerveau,FLAIR,Étude FLAIR du cerveau
+foie,SWI,Séquence dynamique SWI pour foie
+épaule,ADC,ADC dynamique ciblée sur épaule
+foie,3D,Étude 3D du foie
+rachis,TOF,IRM rachis séquence TOF post-contraste
+épaule,FLAIR,IRM épaule - séquence FLAIR
+poumons,BLADE,BLADE poumons sans injection
+pelvis,3D,IRM fonctionnelle 3D du pelvis
+coeur,BLADE,BLADE dynamique ciblée sur coeur
+pelvis,DWI,IRM DWI pelvis avec injection
+cerveau,BLADE,Coupes BLADE du cerveau
+reins,T1,IRM reins séquence T1 post-contraste
+pelvis,BLADE,BLADE dynamique ciblée sur pelvis
+épaule,T2,Séquence dynamique T2 pour épaule
+cerveau,FLAIR,FLAIR cerveau sans injection
+pancréas,T2,Coupes T2 du pancréas
+foie,BLADE,IRM foie - séquence BLADE
+poumons,ADC,IRM ADC poumons avec injection
+cerveau,T2,T2 dynamique ciblée sur cerveau
+pancréas,FLAIR,Séquence dynamique FLAIR pour pancréas
+poumons,DWI,DWI poumons sans injection
+poumons,CISS,Coupes CISS du poumons
+foie,DWI,IRM foie séquence DWI post-contraste
+genou,CISS,IRM genou - séquence CISS
+coeur,ADC,IRM ADC coeur avec injection
+cerveau,SWI,IRM SWI axiale cerveau
+pelvis,DWI,IRM fonctionnelle DWI du pelvis
+rachis,FLAIR,IRM rachis séquence FLAIR post-contraste
+foie,TOF,TOF dynamique ciblée sur foie
+cerveau,SWI,IRM cerveau - séquence SWI
+poumons,DWI,Étude DWI du poumons
+genou,SWI,Séquence SWI centrée sur le genou
+coeur,3D,Séquence 3D centrée sur le coeur
+reins,CISS,IRM reins - séquence CISS
+foie,DWI,Coupes DWI du foie
+pelvis,3D,3D pelvis sans injection
+cerveau,FLAIR,IRM fonctionnelle FLAIR du cerveau
+pancréas,CISS,Coupes CISS du pancréas
+épaule,TOF,TOF épaule sans injection
+poumons,SWI,SWI poumons sans injection
+épaule,T1,IRM épaule séquence T1 post-contraste
+foie,CISS,Séquence dynamique CISS pour foie
+coeur,CISS,CISS coeur sans injection
+cerveau,3D,Séquence dynamique 3D pour cerveau
+pelvis,ADC,Coupes ADC du pelvis
+foie,T2,IRM T2 axiale foie
+genou,3D,IRM genou - séquence 3D
+foie,FLAIR,Étude FLAIR du foie
+pancréas,T1,IRM T1 pancréas avec injection
+coeur,FLAIR,IRM FLAIR axiale coeur
+rachis,3D,IRM rachis séquence 3D post-contraste
+pelvis,ADC,IRM ADC axiale pelvis
+pelvis,TOF,Séquence dynamique TOF pour pelvis
+pelvis,DWI,IRM fonctionnelle DWI du pelvis
+reins,BLADE,IRM fonctionnelle BLADE du reins
+genou,3D,IRM fonctionnelle 3D du genou
+pelvis,BLADE,Séquence BLADE centrée sur le pelvis
+reins,FLAIR,Coupes FLAIR du reins
+poumons,ADC,IRM fonctionnelle ADC du poumons
+genou,ADC,Étude ADC du genou
+poumons,BLADE,IRM BLADE axiale poumons
+épaule,FLAIR,IRM FLAIR axiale épaule
+pelvis,DWI,IRM DWI axiale pelvis
+genou,T1,IRM genou - séquence T1
+cerveau,ADC,Coupes ADC du cerveau
+coeur,T1,IRM coeur - séquence T1
+épaule,3D,Étude 3D du épaule
+épaule,CISS,CISS épaule sans injection
+pelvis,BLADE,BLADE dynamique ciblée sur pelvis
+pancréas,TOF,Séquence dynamique TOF pour pancréas
+cerveau,T1,Séquence dynamique T1 pour cerveau
+rachis,3D,Coupes 3D du rachis
+épaule,T2,IRM fonctionnelle T2 du épaule
+épaule,ADC,IRM ADC épaule avec injection
+genou,T1,Étude T1 du genou
+rachis,3D,IRM rachis - séquence 3D
+poumons,FLAIR,FLAIR dynamique ciblée sur poumons
+coeur,BLADE,IRM BLADE axiale coeur
+rachis,TOF,TOF rachis sans injection
+coeur,SWI,SWI dynamique ciblée sur coeur
+genou,FLAIR,Étude FLAIR du genou
+genou,ADC,Séquence dynamique ADC pour genou
+reins,SWI,IRM fonctionnelle SWI du reins
+épaule,T1,IRM épaule - séquence T1
+genou,TOF,Séquence TOF centrée sur le genou
+rachis,3D,Coupes 3D du rachis
+reins,T2,Coupes T2 du reins
+épaule,T1,T1 épaule sans injection
+poumons,TOF,Étude TOF du poumons
+coeur,CISS,IRM CISS axiale coeur
+pancréas,3D,3D dynamique ciblée sur pancréas
+cerveau,T2,IRM T2 axiale cerveau
+pelvis,FLAIR,Étude FLAIR du pelvis
+poumons,CISS,IRM poumons - séquence CISS
+pelvis,SWI,IRM pelvis séquence SWI post-contraste
+genou,TOF,IRM TOF axiale genou
+reins,3D,Étude 3D du reins
+pelvis,T1,IRM T1 pelvis avec injection
+rachis,CISS,IRM fonctionnelle CISS du rachis
+épaule,SWI,Séquence SWI centrée sur le épaule
+genou,T2,IRM T2 axiale genou
+rachis,3D,Séquence dynamique 3D pour rachis
+poumons,TOF,TOF dynamique ciblée sur poumons
+cerveau,DWI,IRM fonctionnelle DWI du cerveau
+rachis,ADC,Séquence dynamique ADC pour rachis
+poumons,SWI,IRM SWI poumons avec injection
+pancréas,T2,Séquence T2 centrée sur le pancréas
+coeur,ADC,ADC coeur sans injection
+poumons,CISS,IRM CISS axiale poumons
+rachis,SWI,Séquence SWI centrée sur le rachis
+genou,T2,IRM genou - séquence T2
+pelvis,T2,IRM fonctionnelle T2 du pelvis
+foie,3D,Étude 3D du foie
+rachis,CISS,IRM rachis séquence CISS post-contraste
+coeur,DWI,Séquence dynamique DWI pour coeur
+poumons,3D,Étude 3D du poumons
+pelvis,T1,IRM fonctionnelle T1 du pelvis
+foie,BLADE,IRM foie - séquence BLADE
+rachis,DWI,IRM rachis - séquence DWI
+coeur,DWI,DWI coeur sans injection
+poumons,TOF,Séquence dynamique TOF pour poumons
+genou,CISS,Séquence CISS centrée sur le genou
+genou,T2,Séquence T2 centrée sur le genou
+cerveau,CISS,CISS cerveau sans injection
+épaule,CISS,Coupes CISS du épaule
+foie,BLADE,Séquence BLADE centrée sur le foie
+genou,BLADE,IRM fonctionnelle BLADE du genou
+coeur,SWI,SWI dynamique ciblée sur coeur
+reins,SWI,IRM SWI axiale reins
+coeur,3D,IRM coeur séquence 3D post-contraste
+cerveau,ADC,Étude ADC du cerveau
+foie,TOF,Séquence dynamique TOF pour foie
+épaule,T1,T1 dynamique ciblée sur épaule
+foie,SWI,IRM SWI foie avec injection
+coeur,CISS,CISS coeur sans injection
+cerveau,TOF,IRM TOF axiale cerveau
+épaule,TOF,TOF épaule sans injection
+genou,CISS,CISS dynamique ciblée sur genou
+cerveau,T2,T2 dynamique ciblée sur cerveau
+rachis,T1,Séquence dynamique T1 pour rachis
+genou,SWI,Séquence SWI centrée sur le genou
+coeur,SWI,IRM SWI axiale coeur
+pelvis,SWI,IRM SWI axiale pelvis
+coeur,T2,Coupes T2 du coeur
+genou,SWI,SWI genou sans injection
+poumons,T2,IRM T2 poumons avec injection
+poumons,ADC,ADC dynamique ciblée sur poumons
+pancréas,DWI,DWI dynamique ciblée sur pancréas
+coeur,SWI,IRM SWI coeur avec injection
+rachis,T2,IRM rachis - séquence T2
+pancréas,3D,IRM 3D axiale pancréas
+poumons,T1,IRM fonctionnelle T1 du poumons
+coeur,T1,Coupes T1 du coeur
+coeur,TOF,Séquence TOF centrée sur le coeur
+coeur,T2,Étude T2 du coeur
+cerveau,CISS,IRM cerveau - séquence CISS
+reins,ADC,ADC reins sans injection
+poumons,T1,IRM T1 poumons avec injection
+genou,T1,Séquence T1 centrée sur le genou
+reins,ADC,IRM fonctionnelle ADC du reins
+pancréas,ADC,ADC dynamique ciblée sur pancréas
+cerveau,TOF,Séquence dynamique TOF pour cerveau
+reins,ADC,ADC reins sans injection
+pelvis,FLAIR,IRM FLAIR axiale pelvis
+rachis,CISS,Coupes CISS du rachis
+coeur,3D,IRM 3D axiale coeur
+pancréas,T1,T1 dynamique ciblée sur pancréas
+pancréas,ADC,IRM fonctionnelle ADC du pancréas
+épaule,3D,Coupes 3D du épaule
+reins,BLADE,IRM reins séquence BLADE post-contraste
+épaule,BLADE,Coupes BLADE du épaule
+pelvis,FLAIR,Coupes FLAIR du pelvis
+épaule,3D,3D dynamique ciblée sur épaule
+rachis,SWI,IRM SWI axiale rachis
+genou,SWI,IRM fonctionnelle SWI du genou
+rachis,FLAIR,Séquence FLAIR centrée sur le rachis
+pancréas,CISS,CISS dynamique ciblée sur pancréas
+épaule,SWI,IRM épaule séquence SWI post-contraste
+cerveau,ADC,Séquence ADC centrée sur le cerveau
+genou,DWI,Séquence DWI centrée sur le genou
+cerveau,3D,IRM fonctionnelle 3D du cerveau
+cerveau,3D,Étude 3D du cerveau
+foie,T2,IRM foie séquence T2 post-contraste
+épaule,CISS,CISS épaule sans injection
+cerveau,TOF,IRM TOF axiale cerveau
+épaule,T1,T1 épaule sans injection
+coeur,ADC,Étude ADC du coeur
+genou,CISS,CISS genou sans injection
+foie,BLADE,IRM foie séquence BLADE post-contraste
+foie,SWI,Coupes SWI du foie
+reins,T2,Coupes T2 du reins
+pelvis,CISS,CISS pelvis sans injection
+poumons,T2,Coupes T2 du poumons
+coeur,BLADE,IRM BLADE axiale coeur
+pelvis,ADC,IRM ADC pelvis avec injection
+poumons,ADC,IRM poumons séquence ADC post-contraste
+pancréas,CISS,IRM CISS pancréas avec injection
+genou,T1,IRM genou - séquence T1
+reins,T1,Coupes T1 du reins
+pancréas,TOF,Séquence TOF centrée sur le pancréas
+épaule,T2,Coupes T2 du épaule
+poumons,T2,T2 poumons sans injection
+pancréas,T2,Étude T2 du pancréas
+coeur,CISS,Séquence CISS centrée sur le coeur
+reins,ADC,IRM reins séquence ADC post-contraste
+coeur,ADC,IRM ADC axiale coeur
+genou,ADC,Coupes ADC du genou
+épaule,TOF,IRM TOF épaule avec injection
+reins,BLADE,BLADE dynamique ciblée sur reins
+épaule,FLAIR,FLAIR dynamique ciblée sur épaule
+pancréas,CISS,Étude CISS du pancréas
+genou,BLADE,IRM BLADE genou avec injection
+rachis,TOF,IRM TOF rachis avec injection
+genou,TOF,IRM TOF genou avec injection
+pancréas,BLADE,IRM pancréas - séquence BLADE
+cerveau,3D,Étude 3D du cerveau
+poumons,CISS,IRM CISS poumons avec injection
+poumons,TOF,Coupes TOF du poumons
+pelvis,DWI,DWI dynamique ciblée sur pelvis
+poumons,ADC,IRM poumons séquence ADC post-contraste
+pancréas,ADC,IRM pancréas - séquence ADC
+reins,3D,Séquence dynamique 3D pour reins
+cerveau,3D,IRM 3D axiale cerveau
+reins,3D,Coupes 3D du reins
+reins,T2,IRM T2 reins avec injection
+reins,BLADE,BLADE dynamique ciblée sur reins
+genou,3D,Séquence dynamique 3D pour genou
+pancréas,T2,Étude T2 du pancréas
+genou,BLADE,Séquence dynamique BLADE pour genou
+cerveau,DWI,Coupes DWI du cerveau
+pelvis,DWI,IRM DWI axiale pelvis
+reins,3D,Séquence 3D centrée sur le reins
+cerveau,FLAIR,IRM FLAIR axiale cerveau
+pelvis,BLADE,IRM fonctionnelle BLADE du pelvis
+genou,ADC,Coupes ADC du genou
+cerveau,TOF,IRM TOF axiale cerveau
+pelvis,T1,IRM T1 axiale pelvis
+cerveau,T2,Coupes T2 du cerveau
+pelvis,T2,IRM fonctionnelle T2 du pelvis
+rachis,FLAIR,Séquence FLAIR centrée sur le rachis
+poumons,BLADE,Séquence dynamique BLADE pour poumons
+coeur,DWI,Étude DWI du coeur
+pelvis,3D,3D pelvis sans injection
+genou,3D,Séquence 3D centrée sur le genou
+foie,T1,IRM fonctionnelle T1 du foie
+pancréas,FLAIR,Coupes FLAIR du pancréas
+épaule,SWI,IRM épaule séquence SWI post-contraste
+genou,3D,IRM 3D genou avec injection
+cerveau,3D,IRM fonctionnelle 3D du cerveau
+rachis,SWI,IRM rachis séquence SWI post-contraste
+genou,SWI,IRM SWI axiale genou
+poumons,T1,IRM T1 axiale poumons
+genou,BLADE,Étude BLADE du genou
+épaule,T2,IRM T2 axiale épaule
+pelvis,DWI,IRM pelvis séquence DWI post-contraste
+cerveau,3D,Séquence 3D centrée sur le cerveau
+pancréas,DWI,DWI dynamique ciblée sur pancréas
+pelvis,T1,IRM fonctionnelle T1 du pelvis
+coeur,T1,IRM T1 coeur avec injection
+épaule,3D,3D dynamique ciblée sur épaule
+poumons,DWI,Étude DWI du poumons
+coeur,CISS,IRM CISS coeur avec injection
+coeur,3D,Coupes 3D du coeur
+rachis,BLADE,IRM fonctionnelle BLADE du rachis
+coeur,SWI,SWI dynamique ciblée sur coeur
+foie,TOF,Étude TOF du foie
+genou,ADC,Séquence ADC centrée sur le genou
+rachis,SWI,IRM fonctionnelle SWI du rachis
+coeur,DWI,Coupes DWI du coeur
+cerveau,BLADE,IRM BLADE cerveau avec injection
+cerveau,T2,Coupes T2 du cerveau
+cerveau,ADC,Étude ADC du cerveau
+genou,BLADE,IRM genou séquence BLADE post-contraste
+coeur,CISS,CISS coeur sans injection
+genou,FLAIR,Coupes FLAIR du genou
+reins,TOF,TOF reins sans injection
+reins,BLADE,Séquence dynamique BLADE pour reins
+épaule,T2,Étude T2 du épaule
+rachis,TOF,Séquence dynamique TOF pour rachis
+rachis,3D,IRM fonctionnelle 3D du rachis
+reins,DWI,IRM DWI axiale reins
+foie,TOF,IRM foie - séquence TOF
+foie,T2,T2 dynamique ciblée sur foie
+reins,3D,IRM fonctionnelle 3D du reins
+poumons,FLAIR,Séquence dynamique FLAIR pour poumons
+rachis,T2,Séquence dynamique T2 pour rachis
+genou,ADC,IRM genou - séquence ADC
+coeur,DWI,IRM coeur - séquence DWI
+poumons,T2,T2 poumons sans injection
+poumons,T1,IRM T1 axiale poumons
+foie,TOF,Étude TOF du foie
+pancréas,SWI,SWI pancréas sans injection
+rachis,ADC,IRM ADC axiale rachis
+pelvis,DWI,IRM fonctionnelle DWI du pelvis
+pelvis,T1,T1 dynamique ciblée sur pelvis
+poumons,FLAIR,FLAIR dynamique ciblée sur poumons
+coeur,DWI,Coupes DWI du coeur
+épaule,CISS,Séquence dynamique CISS pour épaule
+coeur,CISS,Séquence CISS centrée sur le coeur
+rachis,FLAIR,Séquence FLAIR centrée sur le rachis
+genou,CISS,IRM genou séquence CISS post-contraste
+épaule,TOF,Séquence TOF centrée sur le épaule
+épaule,ADC,IRM épaule séquence ADC post-contraste
+poumons,FLAIR,Séquence dynamique FLAIR pour poumons
+pelvis,TOF,Séquence dynamique TOF pour pelvis
+pancréas,CISS,IRM CISS pancréas avec injection
+genou,TOF,TOF genou sans injection
+rachis,FLAIR,IRM rachis séquence FLAIR post-contraste
+épaule,DWI,IRM épaule séquence DWI post-contraste
+cerveau,BLADE,Séquence dynamique BLADE pour cerveau
+reins,3D,Coupes 3D du reins
+pelvis,T2,IRM fonctionnelle T2 du pelvis
+cerveau,T2,T2 cerveau sans injection
+genou,TOF,IRM genou - séquence TOF
+épaule,T1,Séquence T1 centrée sur le épaule
+reins,BLADE,IRM BLADE axiale reins
+reins,TOF,Séquence dynamique TOF pour reins
+pancréas,T2,Séquence T2 centrée sur le pancréas
+rachis,T1,Étude T1 du rachis
+épaule,3D,IRM 3D axiale épaule
+cerveau,T1,Séquence dynamique T1 pour cerveau
+pelvis,3D,Séquence dynamique 3D pour pelvis
+épaule,TOF,IRM TOF épaule avec injection
+coeur,T1,IRM coeur séquence T1 post-contraste
+épaule,T2,T2 épaule sans injection
+pelvis,BLADE,BLADE dynamique ciblée sur pelvis
+rachis,TOF,Séquence dynamique TOF pour rachis
+pelvis,ADC,Étude ADC du pelvis
+reins,TOF,IRM fonctionnelle TOF du reins
+reins,3D,3D dynamique ciblée sur reins
+rachis,BLADE,Séquence dynamique BLADE pour rachis
+foie,T2,IRM foie séquence T2 post-contraste
+coeur,3D,IRM coeur - séquence 3D
+pelvis,T1,Séquence T1 centrée sur le pelvis
+pancréas,3D,3D pancréas sans injection
+pancréas,SWI,Étude SWI du pancréas
+foie,T1,Séquence dynamique T1 pour foie
+pelvis,3D,Étude 3D du pelvis
+épaule,FLAIR,Séquence dynamique FLAIR pour épaule
+coeur,T1,IRM T1 coeur avec injection
+cerveau,SWI,IRM cerveau séquence SWI post-contraste
+épaule,T2,Coupes T2 du épaule
+pelvis,ADC,IRM ADC pelvis avec injection
+pancréas,3D,Coupes 3D du pancréas
+foie,3D,IRM foie - séquence 3D
+épaule,CISS,CISS dynamique ciblée sur épaule
+foie,BLADE,Étude BLADE du foie
+rachis,CISS,IRM CISS rachis avec injection
+foie,CISS,Séquence dynamique CISS pour foie
+reins,FLAIR,IRM fonctionnelle FLAIR du reins
+genou,CISS,CISS genou sans injection
+poumons,FLAIR,FLAIR poumons sans injection
+poumons,FLAIR,FLAIR poumons sans injection
+poumons,3D,IRM poumons séquence 3D post-contraste
+poumons,CISS,Étude CISS du poumons
+genou,TOF,Séquence dynamique TOF pour genou
+pancréas,BLADE,IRM pancréas - séquence BLADE
+épaule,TOF,IRM épaule séquence TOF post-contraste
+pelvis,DWI,Séquence DWI centrée sur le pelvis
+coeur,T1,Étude T1 du coeur
+poumons,T2,IRM T2 axiale poumons
+foie,T2,Séquence dynamique T2 pour foie
+rachis,SWI,Coupes SWI du rachis
+poumons,T1,IRM T1 poumons avec injection
+rachis,T2,IRM fonctionnelle T2 du rachis
+épaule,FLAIR,IRM épaule séquence FLAIR post-contraste
+poumons,DWI,DWI poumons sans injection
+genou,T2,T2 genou sans injection
+pancréas,FLAIR,Coupes FLAIR du pancréas
+reins,TOF,TOF reins sans injection
+genou,ADC,Coupes ADC du genou
+foie,CISS,IRM CISS axiale foie
+pancréas,T1,T1 dynamique ciblée sur pancréas
+foie,CISS,IRM CISS axiale foie
+foie,BLADE,IRM BLADE foie avec injection
+épaule,BLADE,Séquence BLADE centrée sur le épaule
+rachis,FLAIR,IRM rachis séquence FLAIR post-contraste
+reins,SWI,SWI reins sans injection
+coeur,T1,Séquence T1 centrée sur le coeur
+épaule,ADC,IRM fonctionnelle ADC du épaule
+coeur,T2,IRM coeur - séquence T2
+rachis,FLAIR,FLAIR dynamique ciblée sur rachis
+genou,T2,T2 dynamique ciblée sur genou
+reins,SWI,IRM SWI axiale reins
+foie,ADC,Coupes ADC du foie
+foie,T1,IRM foie séquence T1 post-contraste
+pancréas,FLAIR,Étude FLAIR du pancréas
+pancréas,FLAIR,IRM FLAIR axiale pancréas
+rachis,BLADE,IRM rachis - séquence BLADE
+cerveau,ADC,Séquence ADC centrée sur le cerveau
+foie,FLAIR,IRM FLAIR foie avec injection
+reins,SWI,Étude SWI du reins
+pelvis,CISS,Coupes CISS du pelvis
+pelvis,BLADE,IRM BLADE axiale pelvis
+rachis,T2,Coupes T2 du rachis
+pelvis,T1,T1 pelvis sans injection
+coeur,CISS,IRM fonctionnelle CISS du coeur
+pancréas,BLADE,IRM BLADE pancréas avec injection
+foie,SWI,Séquence SWI centrée sur le foie
+genou,ADC,IRM fonctionnelle ADC du genou
+pelvis,SWI,Étude SWI du pelvis
+coeur,T1,IRM coeur séquence T1 post-contraste
+épaule,ADC,ADC épaule sans injection
+pancréas,CISS,IRM CISS axiale pancréas
+foie,T2,T2 foie sans injection
+pelvis,BLADE,Séquence BLADE centrée sur le pelvis
+pelvis,FLAIR,IRM FLAIR pelvis avec injection
+coeur,TOF,IRM coeur séquence TOF post-contraste
+reins,BLADE,IRM fonctionnelle BLADE du reins
+pelvis,CISS,IRM pelvis - séquence CISS
+pelvis,T1,IRM pelvis - séquence T1
+rachis,DWI,DWI rachis sans injection
+genou,T1,T1 genou sans injection
+rachis,DWI,IRM DWI rachis avec injection
+cerveau,FLAIR,Séquence FLAIR centrée sur le cerveau
+pancréas,BLADE,BLADE dynamique ciblée sur pancréas
+cerveau,T2,Séquence dynamique T2 pour cerveau
+foie,T1,T1 dynamique ciblée sur foie
+coeur,TOF,IRM TOF axiale coeur
+foie,DWI,Séquence dynamique DWI pour foie
+poumons,3D,IRM 3D axiale poumons
+pancréas,3D,IRM fonctionnelle 3D du pancréas
+reins,CISS,CISS dynamique ciblée sur reins
+cerveau,BLADE,BLADE dynamique ciblée sur cerveau
+cerveau,TOF,IRM cerveau - séquence TOF
+rachis,TOF,Séquence TOF centrée sur le rachis
+épaule,SWI,IRM SWI épaule avec injection
+genou,3D,IRM 3D genou avec injection
+foie,FLAIR,IRM FLAIR foie avec injection
+cerveau,BLADE,Séquence dynamique BLADE pour cerveau
+foie,T2,Étude T2 du foie
+foie,T1,T1 dynamique ciblée sur foie
+pancréas,T1,Coupes T1 du pancréas
+genou,SWI,Séquence dynamique SWI pour genou
+coeur,SWI,Séquence SWI centrée sur le coeur
+poumons,TOF,IRM poumons séquence TOF post-contraste
+poumons,SWI,IRM fonctionnelle SWI du poumons
+pelvis,DWI,Séquence DWI centrée sur le pelvis
+genou,3D,Séquence 3D centrée sur le genou
+poumons,SWI,Coupes SWI du poumons
+rachis,T2,T2 dynamique ciblée sur rachis
+coeur,ADC,ADC coeur sans injection
+rachis,T1,IRM T1 axiale rachis
+poumons,SWI,IRM fonctionnelle SWI du poumons
+coeur,SWI,IRM coeur - séquence SWI
+reins,SWI,IRM reins - séquence SWI
+cerveau,SWI,SWI dynamique ciblée sur cerveau
+reins,TOF,IRM fonctionnelle TOF du reins
+reins,SWI,Coupes SWI du reins
+coeur,ADC,Coupes ADC du coeur
+reins,3D,Étude 3D du reins
+rachis,DWI,IRM rachis séquence DWI post-contraste
+reins,3D,Étude 3D du reins
+genou,TOF,Coupes TOF du genou
+épaule,SWI,IRM SWI axiale épaule
+genou,TOF,IRM fonctionnelle TOF du genou
+épaule,T2,IRM T2 axiale épaule
+foie,T2,Étude T2 du foie
+pelvis,T1,IRM T1 pelvis avec injection
+foie,T1,T1 foie sans injection
+épaule,DWI,DWI épaule sans injection
+coeur,ADC,ADC dynamique ciblée sur coeur
+foie,SWI,Étude SWI du foie
+pelvis,T2,IRM pelvis - séquence T2
+foie,SWI,SWI dynamique ciblée sur foie
+cerveau,FLAIR,Séquence dynamique FLAIR pour cerveau
+épaule,FLAIR,IRM FLAIR épaule avec injection
+épaule,T2,Étude T2 du épaule
+épaule,ADC,Séquence ADC centrée sur le épaule
+épaule,ADC,Étude ADC du épaule
+genou,CISS,CISS dynamique ciblée sur genou
+coeur,FLAIR,Séquence dynamique FLAIR pour coeur
+poumons,T1,Coupes T1 du poumons
+poumons,ADC,IRM fonctionnelle ADC du poumons
+poumons,TOF,Séquence dynamique TOF pour poumons
+coeur,CISS,IRM CISS axiale coeur
+rachis,ADC,Séquence dynamique ADC pour rachis
+foie,SWI,Étude SWI du foie
+cerveau,BLADE,BLADE dynamique ciblée sur cerveau
+épaule,SWI,SWI épaule sans injection
+coeur,3D,Coupes 3D du coeur
+coeur,DWI,Séquence dynamique DWI pour coeur
+genou,FLAIR,IRM FLAIR axiale genou
+foie,BLADE,IRM fonctionnelle BLADE du foie
+pancréas,T1,IRM fonctionnelle T1 du pancréas
+rachis,T2,IRM T2 axiale rachis
+rachis,T2,IRM fonctionnelle T2 du rachis
+foie,SWI,Étude SWI du foie
+cerveau,FLAIR,Séquence dynamique FLAIR pour cerveau
+pancréas,T2,Séquence dynamique T2 pour pancréas
+poumons,DWI,Séquence dynamique DWI pour poumons
+poumons,FLAIR,IRM FLAIR axiale poumons
+poumons,SWI,IRM poumons séquence SWI post-contraste
+pelvis,T1,T1 dynamique ciblée sur pelvis
+reins,TOF,Étude TOF du reins
+coeur,T2,Séquence T2 centrée sur le coeur
+coeur,SWI,IRM SWI axiale coeur
+coeur,FLAIR,FLAIR coeur sans injection
+épaule,BLADE,IRM fonctionnelle BLADE du épaule
+pelvis,DWI,IRM pelvis - séquence DWI
+épaule,CISS,IRM CISS axiale épaule
+épaule,T2,IRM épaule - séquence T2
+poumons,T2,Séquence T2 centrée sur le poumons
+épaule,ADC,Étude ADC du épaule
+coeur,SWI,IRM fonctionnelle SWI du coeur
+cerveau,TOF,IRM cerveau séquence TOF post-contraste
+foie,CISS,IRM CISS foie avec injection
+pelvis,BLADE,Coupes BLADE du pelvis
+reins,CISS,CISS dynamique ciblée sur reins
+poumons,BLADE,BLADE poumons sans injection
+rachis,3D,Séquence 3D centrée sur le rachis
+cerveau,BLADE,Étude BLADE du cerveau
+épaule,ADC,ADC épaule sans injection
+coeur,T2,Séquence dynamique T2 pour coeur
+foie,ADC,IRM ADC axiale foie
+pelvis,FLAIR,Coupes FLAIR du pelvis
+rachis,TOF,IRM TOF axiale rachis
+poumons,CISS,Coupes CISS du poumons
+coeur,TOF,IRM TOF coeur avec injection
+rachis,FLAIR,FLAIR dynamique ciblée sur rachis
+pelvis,BLADE,BLADE dynamique ciblée sur pelvis
+foie,DWI,DWI foie sans injection
+pancréas,T1,IRM pancréas - séquence T1
+pelvis,TOF,IRM TOF axiale pelvis
+poumons,T2,Coupes T2 du poumons
+pelvis,3D,IRM pelvis séquence 3D post-contraste
+rachis,BLADE,IRM BLADE rachis avec injection
+reins,CISS,Étude CISS du reins
+pelvis,ADC,ADC dynamique ciblée sur pelvis
+pancréas,ADC,Séquence dynamique ADC pour pancréas
+pelvis,BLADE,IRM BLADE pelvis avec injection
+cerveau,DWI,IRM fonctionnelle DWI du cerveau
+rachis,3D,Séquence dynamique 3D pour rachis
+genou,TOF,TOF dynamique ciblée sur genou
+genou,ADC,IRM genou séquence ADC post-contraste
+rachis,ADC,Séquence dynamique ADC pour rachis
+poumons,3D,Coupes 3D du poumons
+coeur,ADC,ADC coeur sans injection
+reins,CISS,CISS dynamique ciblée sur reins
+reins,SWI,IRM SWI axiale reins
+genou,CISS,IRM CISS axiale genou
+pelvis,BLADE,BLADE dynamique ciblée sur pelvis
+pancréas,T1,Séquence T1 centrée sur le pancréas
+coeur,T1,IRM coeur séquence T1 post-contraste
+pancréas,TOF,IRM TOF axiale pancréas
+reins,T2,T2 reins sans injection
+poumons,DWI,Séquence DWI centrée sur le poumons
+coeur,TOF,Étude TOF du coeur
+reins,CISS,CISS dynamique ciblée sur reins
+pelvis,ADC,IRM pelvis séquence ADC post-contraste
+rachis,CISS,IRM CISS rachis avec injection
+épaule,ADC,IRM ADC épaule avec injection
+reins,CISS,Coupes CISS du reins
+reins,T2,Coupes T2 du reins
+poumons,3D,Coupes 3D du poumons
+pancréas,FLAIR,Étude FLAIR du pancréas
+poumons,CISS,IRM CISS axiale poumons
+pancréas,FLAIR,Séquence FLAIR centrée sur le pancréas
+reins,3D,Séquence dynamique 3D pour reins
+rachis,TOF,IRM rachis séquence TOF post-contraste
+reins,BLADE,IRM BLADE reins avec injection
+poumons,T2,IRM poumons - séquence T2
+poumons,BLADE,BLADE dynamique ciblée sur poumons
+pelvis,FLAIR,Séquence FLAIR centrée sur le pelvis
+pancréas,ADC,ADC dynamique ciblée sur pancréas
+épaule,SWI,Coupes SWI du épaule
+pelvis,CISS,IRM CISS pelvis avec injection
+pancréas,T2,T2 dynamique ciblée sur pancréas
+cerveau,T1,IRM fonctionnelle T1 du cerveau
+foie,SWI,IRM fonctionnelle SWI du foie
+genou,TOF,TOF genou sans injection
+rachis,FLAIR,Séquence FLAIR centrée sur le rachis
+rachis,T1,IRM T1 rachis avec injection
+pelvis,FLAIR,Séquence dynamique FLAIR pour pelvis
+cerveau,CISS,IRM CISS axiale cerveau
+cerveau,CISS,Étude CISS du cerveau
+rachis,DWI,IRM rachis séquence DWI post-contraste
+foie,CISS,Séquence CISS centrée sur le foie
+rachis,SWI,Étude SWI du rachis
+cerveau,BLADE,Séquence dynamique BLADE pour cerveau
+poumons,T2,IRM fonctionnelle T2 du poumons
+pelvis,TOF,IRM pelvis séquence TOF post-contraste
+rachis,FLAIR,Séquence FLAIR centrée sur le rachis
+reins,T1,Séquence T1 centrée sur le reins
+rachis,BLADE,BLADE rachis sans injection
+cerveau,BLADE,IRM BLADE axiale cerveau
+reins,3D,IRM reins séquence 3D post-contraste
+pancréas,DWI,IRM pancréas - séquence DWI
+cerveau,CISS,IRM fonctionnelle CISS du cerveau
+foie,CISS,IRM CISS axiale foie
+reins,SWI,Étude SWI du reins
+pancréas,SWI,SWI pancréas sans injection
+rachis,3D,IRM fonctionnelle 3D du rachis
+coeur,BLADE,Étude BLADE du coeur
+reins,T2,IRM reins séquence T2 post-contraste
+reins,DWI,IRM fonctionnelle DWI du reins
+pancréas,SWI,Séquence dynamique SWI pour pancréas
+épaule,T1,Étude T1 du épaule
+coeur,TOF,IRM TOF axiale coeur
+cerveau,CISS,IRM fonctionnelle CISS du cerveau
+rachis,TOF,TOF dynamique ciblée sur rachis
+coeur,ADC,IRM coeur séquence ADC post-contraste
+poumons,ADC,IRM poumons - séquence ADC
+genou,T1,IRM fonctionnelle T1 du genou
+cerveau,T1,IRM T1 axiale cerveau
+coeur,FLAIR,IRM FLAIR coeur avec injection
+pancréas,SWI,Étude SWI du pancréas
+cerveau,ADC,Séquence dynamique ADC pour cerveau
+épaule,CISS,IRM épaule séquence CISS post-contraste
+coeur,3D,IRM coeur séquence 3D post-contraste
+cerveau,BLADE,IRM BLADE axiale cerveau
+pelvis,T2,Séquence dynamique T2 pour pelvis
+pancréas,BLADE,IRM fonctionnelle BLADE du pancréas
+foie,SWI,IRM SWI axiale foie
+foie,DWI,IRM DWI foie avec injection
+foie,FLAIR,Séquence FLAIR centrée sur le foie
+reins,CISS,Étude CISS du reins
+poumons,FLAIR,IRM poumons séquence FLAIR post-contraste
+poumons,ADC,Coupes ADC du poumons
+poumons,T2,IRM T2 poumons avec injection
+rachis,3D,IRM fonctionnelle 3D du rachis
+rachis,CISS,CISS dynamique ciblée sur rachis
+reins,3D,Séquence 3D centrée sur le reins
+rachis,FLAIR,Séquence dynamique FLAIR pour rachis
+cerveau,BLADE,Coupes BLADE du cerveau
+foie,ADC,ADC dynamique ciblée sur foie
+pelvis,FLAIR,FLAIR pelvis sans injection
+genou,3D,IRM 3D axiale genou
+coeur,TOF,TOF dynamique ciblée sur coeur
+rachis,FLAIR,Coupes FLAIR du rachis
+foie,ADC,IRM ADC axiale foie
+coeur,BLADE,IRM BLADE coeur avec injection
+reins,FLAIR,FLAIR reins sans injection
+foie,ADC,IRM ADC axiale foie
+reins,FLAIR,Séquence dynamique FLAIR pour reins
+poumons,3D,IRM poumons - séquence 3D
+reins,ADC,Séquence ADC centrée sur le reins
+reins,FLAIR,IRM fonctionnelle FLAIR du reins
+foie,3D,Coupes 3D du foie
+genou,DWI,IRM DWI genou avec injection
+genou,FLAIR,IRM fonctionnelle FLAIR du genou
+poumons,TOF,IRM TOF axiale poumons
+reins,SWI,Étude SWI du reins
+coeur,ADC,IRM coeur - séquence ADC
+pancréas,ADC,ADC dynamique ciblée sur pancréas
+coeur,3D,Étude 3D du coeur
+épaule,DWI,IRM épaule - séquence DWI
+reins,3D,Séquence 3D centrée sur le reins
+épaule,SWI,Séquence dynamique SWI pour épaule
+foie,T2,Séquence T2 centrée sur le foie
+rachis,TOF,Coupes TOF du rachis
+reins,SWI,IRM reins séquence SWI post-contraste
+coeur,3D,3D dynamique ciblée sur coeur
+genou,CISS,Séquence dynamique CISS pour genou
+pancréas,T1,IRM pancréas - séquence T1
+épaule,T2,Séquence T2 centrée sur le épaule
+foie,T2,IRM fonctionnelle T2 du foie
+poumons,SWI,IRM SWI axiale poumons
+cerveau,SWI,Séquence SWI centrée sur le cerveau
+reins,DWI,IRM fonctionnelle DWI du reins
+poumons,CISS,IRM fonctionnelle CISS du poumons
+pancréas,FLAIR,Étude FLAIR du pancréas
+pancréas,CISS,Étude CISS du pancréas
+foie,BLADE,IRM BLADE axiale foie
+reins,T1,Coupes T1 du reins
+reins,BLADE,Étude BLADE du reins
+poumons,BLADE,IRM fonctionnelle BLADE du poumons
+reins,T1,IRM reins - séquence T1
+pelvis,T2,IRM T2 pelvis avec injection
+poumons,TOF,Étude TOF du poumons
+poumons,SWI,IRM SWI poumons avec injection
+reins,FLAIR,IRM FLAIR reins avec injection
+cerveau,3D,Séquence 3D centrée sur le cerveau
+pancréas,SWI,Coupes SWI du pancréas
+épaule,TOF,IRM épaule - séquence TOF
+épaule,3D,IRM 3D épaule avec injection
+pancréas,SWI,IRM SWI pancréas avec injection
+foie,CISS,IRM CISS foie avec injection
+pelvis,T2,Étude T2 du pelvis
+foie,ADC,Coupes ADC du foie
+poumons,T2,T2 dynamique ciblée sur poumons
+genou,3D,IRM 3D axiale genou
+reins,BLADE,Séquence BLADE centrée sur le reins
+poumons,TOF,Étude TOF du poumons
+foie,TOF,Séquence TOF centrée sur le foie
+épaule,DWI,IRM DWI axiale épaule
+poumons,T1,Séquence dynamique T1 pour poumons
+reins,T2,IRM T2 reins avec injection
+foie,CISS,Étude CISS du foie
+coeur,CISS,CISS dynamique ciblée sur coeur
+reins,FLAIR,Séquence dynamique FLAIR pour reins
+reins,FLAIR,Étude FLAIR du reins
+rachis,DWI,DWI dynamique ciblée sur rachis
+reins,T1,IRM T1 axiale reins
+reins,3D,3D reins sans injection
+coeur,T1,T1 dynamique ciblée sur coeur
+pancréas,3D,IRM fonctionnelle 3D du pancréas
+coeur,DWI,Étude DWI du coeur
+pelvis,T2,IRM fonctionnelle T2 du pelvis
+rachis,ADC,Séquence ADC centrée sur le rachis
+coeur,T2,IRM T2 coeur avec injection
+reins,CISS,IRM reins séquence CISS post-contraste
+rachis,CISS,IRM CISS axiale rachis
+coeur,3D,Séquence dynamique 3D pour coeur
+épaule,BLADE,IRM épaule séquence BLADE post-contraste
+coeur,T2,IRM T2 axiale coeur
+coeur,BLADE,IRM coeur séquence BLADE post-contraste
+poumons,FLAIR,IRM fonctionnelle FLAIR du poumons
+reins,T1,IRM T1 reins avec injection
+pancréas,ADC,Coupes ADC du pancréas
+pelvis,ADC,IRM ADC axiale pelvis
+pelvis,BLADE,BLADE dynamique ciblée sur pelvis
+genou,T1,Séquence dynamique T1 pour genou
+coeur,TOF,IRM TOF axiale coeur
+reins,FLAIR,Séquence FLAIR centrée sur le reins
+cerveau,DWI,IRM cerveau séquence DWI post-contraste
+poumons,BLADE,IRM BLADE poumons avec injection
+épaule,T2,Étude T2 du épaule
+foie,DWI,IRM DWI foie avec injection
+cerveau,BLADE,IRM BLADE axiale cerveau
+genou,T2,T2 genou sans injection
+reins,FLAIR,IRM reins séquence FLAIR post-contraste
+épaule,ADC,Coupes ADC du épaule
+pancréas,T1,Séquence T1 centrée sur le pancréas
+poumons,TOF,IRM poumons - séquence TOF
+reins,3D,IRM 3D axiale reins
+pelvis,3D,3D dynamique ciblée sur pelvis
+coeur,TOF,IRM TOF axiale coeur
+coeur,BLADE,Étude BLADE du coeur
+épaule,T2,Coupes T2 du épaule
+cerveau,3D,Séquence 3D centrée sur le cerveau
+rachis,CISS,IRM rachis - séquence CISS
+pancréas,FLAIR,FLAIR pancréas sans injection
+cerveau,TOF,Séquence TOF centrée sur le cerveau
+cerveau,ADC,Séquence ADC centrée sur le cerveau
+pelvis,ADC,IRM ADC pelvis avec injection
+reins,ADC,Étude ADC du reins
+pancréas,T2,IRM pancréas séquence T2 post-contraste
+rachis,ADC,IRM ADC rachis avec injection
+genou,FLAIR,IRM fonctionnelle FLAIR du genou
+épaule,T1,IRM épaule séquence T1 post-contraste
+genou,T1,Séquence T1 centrée sur le genou
+genou,FLAIR,Étude FLAIR du genou
+poumons,SWI,Séquence SWI centrée sur le poumons
+pelvis,CISS,Étude CISS du pelvis
+cerveau,SWI,Séquence SWI centrée sur le cerveau
+reins,DWI,IRM reins séquence DWI post-contraste
+pelvis,T2,IRM T2 axiale pelvis
+poumons,3D,3D dynamique ciblée sur poumons
+pancréas,FLAIR,IRM FLAIR axiale pancréas
+coeur,T1,Séquence T1 centrée sur le coeur
+cerveau,DWI,Étude DWI du cerveau
+reins,TOF,IRM reins séquence TOF post-contraste
+reins,ADC,Séquence dynamique ADC pour reins
+poumons,FLAIR,Étude FLAIR du poumons
+pancréas,FLAIR,IRM pancréas séquence FLAIR post-contraste
+pancréas,DWI,Séquence dynamique DWI pour pancréas
+épaule,CISS,IRM CISS épaule avec injection
+pelvis,FLAIR,IRM pelvis séquence FLAIR post-contraste
+épaule,TOF,TOF dynamique ciblée sur épaule
+pelvis,ADC,IRM pelvis séquence ADC post-contraste
+genou,T2,IRM genou - séquence T2
+poumons,TOF,IRM TOF axiale poumons
+poumons,SWI,IRM poumons - séquence SWI
+épaule,TOF,Séquence dynamique TOF pour épaule
+coeur,T1,Séquence dynamique T1 pour coeur
+pancréas,T2,Séquence T2 centrée sur le pancréas
+genou,BLADE,IRM genou séquence BLADE post-contraste
+rachis,ADC,ADC rachis sans injection
+pancréas,3D,3D dynamique ciblée sur pancréas
+pancréas,3D,Séquence dynamique 3D pour pancréas
+pancréas,FLAIR,IRM fonctionnelle FLAIR du pancréas
+genou,DWI,IRM genou - séquence DWI
+cerveau,TOF,TOF dynamique ciblée sur cerveau
+épaule,FLAIR,Étude FLAIR du épaule
+pelvis,FLAIR,FLAIR pelvis sans injection
+pelvis,T1,IRM T1 axiale pelvis
+foie,DWI,Séquence dynamique DWI pour foie
+reins,TOF,IRM reins - séquence TOF
+poumons,CISS,Séquence CISS centrée sur le poumons
+rachis,3D,Séquence dynamique 3D pour rachis
+poumons,ADC,IRM ADC poumons avec injection
+cerveau,CISS,Coupes CISS du cerveau
+poumons,T2,Étude T2 du poumons
+genou,BLADE,Étude BLADE du genou
+épaule,SWI,IRM épaule séquence SWI post-contraste
+pancréas,ADC,IRM pancréas - séquence ADC
+épaule,TOF,TOF dynamique ciblée sur épaule
+épaule,DWI,DWI épaule sans injection
+reins,FLAIR,Séquence dynamique FLAIR pour reins
+rachis,FLAIR,Séquence dynamique FLAIR pour rachis
+pancréas,CISS,Séquence dynamique CISS pour pancréas
+pancréas,FLAIR,Séquence FLAIR centrée sur le pancréas
+pancréas,CISS,IRM CISS pancréas avec injection
+genou,BLADE,IRM BLADE genou avec injection
+rachis,CISS,IRM CISS rachis avec injection
+rachis,CISS,CISS rachis sans injection
+genou,TOF,IRM TOF axiale genou
+foie,TOF,IRM foie séquence TOF post-contraste
+rachis,TOF,IRM TOF axiale rachis
+pancréas,DWI,IRM fonctionnelle DWI du pancréas
+poumons,ADC,IRM ADC axiale poumons
+épaule,T2,T2 épaule sans injection
+épaule,T1,IRM T1 épaule avec injection
+reins,DWI,DWI reins sans injection
+coeur,DWI,IRM DWI coeur avec injection
+pancréas,BLADE,IRM BLADE axiale pancréas
+coeur,SWI,IRM coeur - séquence SWI
+cerveau,T1,IRM cerveau - séquence T1
+coeur,BLADE,BLADE dynamique ciblée sur coeur
+coeur,CISS,Séquence dynamique CISS pour coeur
+genou,DWI,IRM DWI axiale genou
+pelvis,BLADE,BLADE pelvis sans injection
+poumons,SWI,IRM poumons séquence SWI post-contraste
+pancréas,T1,T1 pancréas sans injection
+genou,FLAIR,Étude FLAIR du genou
+rachis,T1,T1 dynamique ciblée sur rachis
+coeur,3D,Étude 3D du coeur
+cerveau,SWI,Séquence SWI centrée sur le cerveau
+poumons,CISS,Séquence CISS centrée sur le poumons
+pancréas,T2,IRM pancréas - séquence T2
+pancréas,TOF,IRM TOF axiale pancréas
+reins,BLADE,IRM fonctionnelle BLADE du reins
+pelvis,CISS,IRM CISS pelvis avec injection
+genou,ADC,Séquence dynamique ADC pour genou
+pelvis,BLADE,Séquence dynamique BLADE pour pelvis
+coeur,SWI,Séquence SWI centrée sur le coeur
+foie,SWI,IRM foie - séquence SWI
+épaule,CISS,IRM épaule séquence CISS post-contraste
+pelvis,FLAIR,IRM FLAIR axiale pelvis
+pancréas,SWI,IRM SWI axiale pancréas
+rachis,DWI,IRM fonctionnelle DWI du rachis
+poumons,SWI,IRM poumons - séquence SWI
+reins,ADC,IRM ADC axiale reins
+coeur,FLAIR,FLAIR dynamique ciblée sur coeur
+foie,DWI,Séquence dynamique DWI pour foie
+foie,SWI,SWI foie sans injection
+cerveau,CISS,Étude CISS du cerveau
+genou,DWI,Séquence DWI centrée sur le genou
+genou,CISS,Coupes CISS du genou
+pancréas,FLAIR,FLAIR pancréas sans injection
+épaule,DWI,DWI épaule sans injection
+pancréas,T2,T2 pancréas sans injection
+poumons,T2,IRM poumons séquence T2 post-contraste
+pelvis,CISS,IRM fonctionnelle CISS du pelvis
+foie,BLADE,IRM fonctionnelle BLADE du foie
+poumons,CISS,Coupes CISS du poumons
+pelvis,CISS,Séquence CISS centrée sur le pelvis
+épaule,ADC,Étude ADC du épaule
+reins,ADC,Séquence ADC centrée sur le reins
+genou,FLAIR,IRM FLAIR axiale genou
+poumons,TOF,IRM fonctionnelle TOF du poumons
+rachis,T1,T1 rachis sans injection
+coeur,BLADE,IRM BLADE coeur avec injection
+coeur,3D,Étude 3D du coeur
+coeur,FLAIR,IRM FLAIR axiale coeur
+coeur,FLAIR,Séquence FLAIR centrée sur le coeur
+coeur,FLAIR,Séquence FLAIR centrée sur le coeur
+rachis,SWI,SWI rachis sans injection
+reins,ADC,IRM reins séquence ADC post-contraste
+genou,BLADE,IRM genou - séquence BLADE
+cerveau,FLAIR,Coupes FLAIR du cerveau
+épaule,T1,IRM fonctionnelle T1 du épaule
+foie,TOF,IRM fonctionnelle TOF du foie
+épaule,SWI,Séquence SWI centrée sur le épaule
+reins,FLAIR,IRM fonctionnelle FLAIR du reins
+coeur,CISS,CISS coeur sans injection
+genou,T2,T2 dynamique ciblée sur genou
+rachis,3D,IRM rachis - séquence 3D
+reins,3D,Coupes 3D du reins
+genou,ADC,Coupes ADC du genou
+pelvis,FLAIR,IRM pelvis séquence FLAIR post-contraste
+épaule,SWI,IRM fonctionnelle SWI du épaule
+reins,FLAIR,Coupes FLAIR du reins
+coeur,BLADE,IRM fonctionnelle BLADE du coeur
+coeur,FLAIR,Coupes FLAIR du coeur
+cerveau,BLADE,Coupes BLADE du cerveau
+épaule,FLAIR,FLAIR dynamique ciblée sur épaule
+genou,CISS,CISS genou sans injection
+rachis,3D,Étude 3D du rachis
+genou,FLAIR,IRM genou - séquence FLAIR
+poumons,3D,IRM 3D poumons avec injection
+pancréas,SWI,Étude SWI du pancréas
+reins,ADC,ADC dynamique ciblée sur reins
+coeur,DWI,IRM coeur - séquence DWI
+coeur,3D,IRM coeur - séquence 3D
+poumons,SWI,IRM SWI axiale poumons
+épaule,SWI,SWI épaule sans injection
+cerveau,3D,3D cerveau sans injection
+rachis,FLAIR,Étude FLAIR du rachis
+genou,SWI,IRM SWI genou avec injection
+poumons,SWI,SWI poumons sans injection
+foie,TOF,Séquence TOF centrée sur le foie
+rachis,SWI,IRM rachis séquence SWI post-contraste
+genou,3D,3D genou sans injection
+épaule,3D,IRM épaule séquence 3D post-contraste
+pancréas,BLADE,IRM BLADE pancréas avec injection
+genou,FLAIR,Séquence FLAIR centrée sur le genou
+poumons,CISS,CISS poumons sans injection
+rachis,CISS,IRM CISS axiale rachis
+poumons,DWI,IRM poumons - séquence DWI
+pelvis,SWI,IRM pelvis séquence SWI post-contraste
+épaule,T1,Séquence dynamique T1 pour épaule
+rachis,T1,IRM T1 rachis avec injection
+pancréas,T2,Séquence T2 centrée sur le pancréas
+pancréas,BLADE,Étude BLADE du pancréas
+genou,3D,IRM 3D axiale genou
+genou,3D,3D genou sans injection
+pancréas,DWI,IRM pancréas - séquence DWI
+épaule,BLADE,IRM BLADE axiale épaule
+épaule,ADC,Coupes ADC du épaule
+reins,CISS,IRM CISS axiale reins
+reins,BLADE,Séquence dynamique BLADE pour reins
+poumons,ADC,Séquence ADC centrée sur le poumons
+reins,DWI,Coupes DWI du reins
+poumons,DWI,IRM DWI poumons avec injection
+cerveau,TOF,Étude TOF du cerveau
+rachis,3D,IRM rachis séquence 3D post-contraste
+coeur,ADC,Étude ADC du coeur
+épaule,3D,3D épaule sans injection
+pelvis,TOF,IRM TOF axiale pelvis
+pelvis,SWI,Coupes SWI du pelvis
+épaule,SWI,Séquence SWI centrée sur le épaule
+genou,BLADE,IRM genou - séquence BLADE
+coeur,T2,Coupes T2 du coeur
+reins,CISS,IRM CISS axiale reins
+cerveau,BLADE,BLADE dynamique ciblée sur cerveau
+coeur,3D,Coupes 3D du coeur
+pancréas,DWI,DWI pancréas sans injection
+rachis,3D,Séquence 3D centrée sur le rachis
+genou,BLADE,Étude BLADE du genou
+genou,TOF,Séquence TOF centrée sur le genou
+foie,FLAIR,FLAIR dynamique ciblée sur foie
+genou,CISS,CISS dynamique ciblée sur genou
+cerveau,FLAIR,IRM cerveau - séquence FLAIR
+pelvis,CISS,Coupes CISS du pelvis
+rachis,3D,Séquence dynamique 3D pour rachis
+foie,TOF,TOF dynamique ciblée sur foie
+foie,3D,Séquence 3D centrée sur le foie
+poumons,T1,IRM fonctionnelle T1 du poumons
+pelvis,BLADE,IRM BLADE axiale pelvis
+foie,3D,IRM foie séquence 3D post-contraste
+pancréas,FLAIR,Séquence dynamique FLAIR pour pancréas
+pancréas,CISS,Séquence CISS centrée sur le pancréas
+rachis,BLADE,IRM BLADE rachis avec injection
+rachis,SWI,SWI rachis sans injection
+coeur,T1,IRM fonctionnelle T1 du coeur
+rachis,3D,IRM rachis - séquence 3D
+poumons,3D,Coupes 3D du poumons
+épaule,SWI,Étude SWI du épaule
+coeur,ADC,IRM coeur séquence ADC post-contraste
+genou,DWI,Étude DWI du genou
+rachis,TOF,Séquence dynamique TOF pour rachis
+pancréas,SWI,Coupes SWI du pancréas
+pelvis,T2,T2 dynamique ciblée sur pelvis
+poumons,3D,IRM poumons - séquence 3D
+épaule,SWI,Séquence SWI centrée sur le épaule
+rachis,T1,Séquence dynamique T1 pour rachis
+rachis,SWI,IRM fonctionnelle SWI du rachis
+pancréas,DWI,Séquence DWI centrée sur le pancréas
+épaule,T1,Coupes T1 du épaule
+genou,FLAIR,Coupes FLAIR du genou
+coeur,T2,Étude T2 du coeur
+rachis,SWI,IRM fonctionnelle SWI du rachis
+épaule,T1,Séquence T1 centrée sur le épaule
+poumons,CISS,IRM poumons - séquence CISS
+reins,TOF,IRM TOF reins avec injection
+pelvis,3D,3D pelvis sans injection
+pancréas,FLAIR,FLAIR pancréas sans injection
+pancréas,ADC,IRM ADC pancréas avec injection
+coeur,T1,T1 dynamique ciblée sur coeur
+épaule,ADC,IRM épaule - séquence ADC
+poumons,CISS,Séquence dynamique CISS pour poumons
+cerveau,FLAIR,IRM fonctionnelle FLAIR du cerveau
+cerveau,ADC,IRM cerveau séquence ADC post-contraste
+pancréas,T2,Coupes T2 du pancréas
+reins,ADC,ADC dynamique ciblée sur reins
+poumons,SWI,Coupes SWI du poumons
+épaule,T1,T1 épaule sans injection
+pancréas,DWI,IRM DWI pancréas avec injection
+coeur,DWI,Étude DWI du coeur
+épaule,TOF,Coupes TOF du épaule
+pancréas,ADC,Coupes ADC du pancréas
+cerveau,T1,Séquence dynamique T1 pour cerveau
+épaule,CISS,CISS épaule sans injection
+genou,SWI,IRM SWI axiale genou
+pelvis,DWI,DWI pelvis sans injection
+cerveau,3D,IRM cerveau - séquence 3D
+cerveau,CISS,IRM cerveau séquence CISS post-contraste
+foie,T2,IRM T2 axiale foie
+poumons,BLADE,Séquence dynamique BLADE pour poumons
+reins,CISS,IRM CISS axiale reins
+foie,3D,3D dynamique ciblée sur foie
+genou,TOF,Séquence TOF centrée sur le genou
+foie,SWI,IRM SWI axiale foie
+rachis,T1,IRM rachis séquence T1 post-contraste
+coeur,3D,IRM 3D axiale coeur
+épaule,FLAIR,FLAIR épaule sans injection
+reins,CISS,Séquence CISS centrée sur le reins
+pancréas,TOF,TOF pancréas sans injection
+pelvis,T2,T2 dynamique ciblée sur pelvis
+genou,T1,T1 genou sans injection
+poumons,3D,Séquence dynamique 3D pour poumons
+épaule,SWI,Séquence SWI centrée sur le épaule
+foie,T1,IRM fonctionnelle T1 du foie
+pancréas,ADC,ADC dynamique ciblée sur pancréas
+foie,T2,Séquence dynamique T2 pour foie
+épaule,FLAIR,Coupes FLAIR du épaule
+épaule,TOF,Séquence TOF centrée sur le épaule
+foie,ADC,Étude ADC du foie
+poumons,T2,IRM T2 poumons avec injection
+poumons,SWI,SWI poumons sans injection
+épaule,T2,IRM T2 axiale épaule
+cerveau,CISS,IRM fonctionnelle CISS du cerveau
+pelvis,T2,IRM pelvis - séquence T2
+pancréas,3D,IRM pancréas séquence 3D post-contraste
+épaule,BLADE,IRM épaule séquence BLADE post-contraste
+épaule,CISS,CISS dynamique ciblée sur épaule
+rachis,DWI,IRM rachis - séquence DWI
+pancréas,DWI,IRM fonctionnelle DWI du pancréas
+coeur,3D,3D dynamique ciblée sur coeur
+genou,SWI,SWI genou sans injection
+pancréas,T2,Étude T2 du pancréas
+rachis,T2,Étude T2 du rachis
+reins,CISS,IRM CISS reins avec injection
+foie,CISS,IRM CISS axiale foie
+reins,TOF,Étude TOF du reins
+foie,T2,T2 dynamique ciblée sur foie
+rachis,T2,T2 dynamique ciblée sur rachis
+poumons,BLADE,IRM BLADE axiale poumons
+genou,ADC,ADC dynamique ciblée sur genou
+cerveau,DWI,Séquence DWI centrée sur le cerveau
+épaule,T2,Étude T2 du épaule
+pelvis,TOF,Étude TOF du pelvis
+poumons,T1,IRM fonctionnelle T1 du poumons
+reins,DWI,IRM DWI reins avec injection
+rachis,FLAIR,IRM rachis - séquence FLAIR
+pancréas,3D,IRM pancréas séquence 3D post-contraste
+poumons,3D,3D dynamique ciblée sur poumons
+pancréas,CISS,Étude CISS du pancréas
+genou,CISS,IRM CISS axiale genou
+genou,BLADE,IRM genou séquence BLADE post-contraste
+pelvis,DWI,IRM DWI pelvis avec injection
+cerveau,DWI,IRM cerveau - séquence DWI
+rachis,DWI,DWI dynamique ciblée sur rachis
+pelvis,T2,IRM fonctionnelle T2 du pelvis
+foie,T1,T1 dynamique ciblée sur foie
+pelvis,BLADE,IRM BLADE pelvis avec injection
+épaule,DWI,IRM fonctionnelle DWI du épaule
+rachis,3D,IRM 3D axiale rachis
+foie,BLADE,Coupes BLADE du foie
+poumons,ADC,IRM ADC poumons avec injection
+reins,DWI,Étude DWI du reins
+genou,CISS,Séquence CISS centrée sur le genou
+rachis,CISS,Étude CISS du rachis
+cerveau,T2,Étude T2 du cerveau
+rachis,CISS,IRM fonctionnelle CISS du rachis
+poumons,T1,Étude T1 du poumons
+rachis,T2,IRM T2 axiale rachis
+foie,T2,IRM fonctionnelle T2 du foie
+foie,T1,Étude T1 du foie
+cerveau,CISS,IRM cerveau séquence CISS post-contraste
+pancréas,T2,Coupes T2 du pancréas
+genou,CISS,CISS genou sans injection
+épaule,T1,Séquence dynamique T1 pour épaule
+reins,T1,Coupes T1 du reins
+pancréas,CISS,IRM CISS axiale pancréas
+foie,3D,Coupes 3D du foie
+pancréas,CISS,IRM CISS axiale pancréas
+cerveau,T2,T2 cerveau sans injection
+épaule,FLAIR,FLAIR épaule sans injection
+cerveau,DWI,IRM DWI cerveau avec injection
+poumons,ADC,Étude ADC du poumons
+coeur,SWI,SWI dynamique ciblée sur coeur
+cerveau,DWI,DWI dynamique ciblée sur cerveau
+coeur,BLADE,Séquence dynamique BLADE pour coeur
+genou,3D,Étude 3D du genou
+cerveau,BLADE,Étude BLADE du cerveau
+pancréas,FLAIR,Séquence dynamique FLAIR pour pancréas
+cerveau,3D,IRM fonctionnelle 3D du cerveau
+foie,T1,IRM fonctionnelle T1 du foie
+genou,T1,Séquence T1 centrée sur le genou
+pelvis,DWI,IRM DWI pelvis avec injection
+épaule,TOF,IRM TOF épaule avec injection
+pelvis,T2,Coupes T2 du pelvis
+rachis,TOF,IRM TOF axiale rachis
+reins,T2,Séquence T2 centrée sur le reins
+poumons,DWI,IRM DWI poumons avec injection
+poumons,FLAIR,FLAIR poumons sans injection
+genou,SWI,Séquence SWI centrée sur le genou
+pelvis,DWI,IRM DWI axiale pelvis
+genou,T2,IRM fonctionnelle T2 du genou
+cerveau,BLADE,IRM cerveau séquence BLADE post-contraste
+foie,T2,IRM T2 axiale foie
+foie,T2,IRM foie séquence T2 post-contraste
+foie,T1,IRM T1 foie avec injection
+épaule,3D,Étude 3D du épaule
+pancréas,TOF,Séquence dynamique TOF pour pancréas
+coeur,DWI,IRM DWI axiale coeur
+pelvis,ADC,Coupes ADC du pelvis
+foie,TOF,IRM TOF axiale foie
+pancréas,CISS,Séquence CISS centrée sur le pancréas
+coeur,CISS,IRM coeur séquence CISS post-contraste
+cerveau,SWI,IRM SWI axiale cerveau
+pancréas,FLAIR,Séquence dynamique FLAIR pour pancréas
+genou,CISS,Séquence CISS centrée sur le genou
+genou,T1,Étude T1 du genou
+coeur,FLAIR,FLAIR dynamique ciblée sur coeur
+coeur,FLAIR,FLAIR dynamique ciblée sur coeur
+reins,TOF,Séquence TOF centrée sur le reins
+cerveau,CISS,CISS dynamique ciblée sur cerveau
+pancréas,3D,3D dynamique ciblée sur pancréas
+genou,BLADE,IRM fonctionnelle BLADE du genou
+rachis,SWI,Coupes SWI du rachis
+poumons,FLAIR,IRM fonctionnelle FLAIR du poumons
+genou,BLADE,IRM genou - séquence BLADE
+rachis,T1,T1 dynamique ciblée sur rachis
+poumons,T1,IRM fonctionnelle T1 du poumons
+foie,SWI,Séquence SWI centrée sur le foie
+pelvis,T1,T1 pelvis sans injection
+foie,CISS,Séquence dynamique CISS pour foie
+genou,DWI,Coupes DWI du genou
+genou,T1,IRM fonctionnelle T1 du genou
+pancréas,DWI,Coupes DWI du pancréas
+cerveau,FLAIR,Coupes FLAIR du cerveau
+pelvis,BLADE,BLADE pelvis sans injection
+épaule,TOF,IRM TOF épaule avec injection
+genou,ADC,IRM genou séquence ADC post-contraste
+poumons,T2,Séquence dynamique T2 pour poumons
+poumons,FLAIR,IRM poumons séquence FLAIR post-contraste
+reins,CISS,IRM reins séquence CISS post-contraste
+reins,ADC,ADC dynamique ciblée sur reins
+foie,DWI,Coupes DWI du foie
+coeur,TOF,IRM fonctionnelle TOF du coeur
+reins,SWI,SWI dynamique ciblée sur reins
+rachis,FLAIR,IRM FLAIR axiale rachis
+poumons,SWI,Séquence SWI centrée sur le poumons
+cerveau,3D,Séquence 3D centrée sur le cerveau
+pelvis,3D,IRM pelvis séquence 3D post-contraste
+rachis,SWI,SWI dynamique ciblée sur rachis
+foie,3D,3D foie sans injection
+genou,CISS,Coupes CISS du genou
+reins,TOF,IRM reins - séquence TOF
+foie,3D,Séquence 3D centrée sur le foie
+foie,ADC,Séquence dynamique ADC pour foie
+pelvis,T2,T2 dynamique ciblée sur pelvis
+foie,SWI,Coupes SWI du foie
+foie,BLADE,Séquence dynamique BLADE pour foie
+pancréas,T2,Coupes T2 du pancréas
+genou,T1,T1 genou sans injection
+genou,BLADE,BLADE dynamique ciblée sur genou
+coeur,TOF,Séquence TOF centrée sur le coeur
+reins,ADC,Coupes ADC du reins
+reins,SWI,SWI reins sans injection
+coeur,SWI,Séquence dynamique SWI pour coeur
+cerveau,TOF,Coupes TOF du cerveau
+genou,TOF,Coupes TOF du genou
+reins,3D,IRM reins séquence 3D post-contraste
+foie,CISS,IRM CISS axiale foie
+épaule,T2,IRM T2 axiale épaule
+épaule,SWI,Coupes SWI du épaule
+foie,DWI,IRM foie séquence DWI post-contraste
+coeur,CISS,Séquence CISS centrée sur le coeur
+foie,T1,Coupes T1 du foie
+pancréas,T2,Séquence dynamique T2 pour pancréas
+épaule,DWI,Coupes DWI du épaule
+pancréas,BLADE,BLADE dynamique ciblée sur pancréas
+foie,T2,IRM foie séquence T2 post-contraste
+genou,TOF,TOF dynamique ciblée sur genou
+genou,T1,IRM genou - séquence T1
+pancréas,SWI,Séquence SWI centrée sur le pancréas
+reins,ADC,IRM reins séquence ADC post-contraste
+genou,BLADE,Coupes BLADE du genou
+épaule,T2,IRM épaule - séquence T2
+reins,BLADE,Coupes BLADE du reins
+rachis,CISS,IRM CISS rachis avec injection
+pancréas,BLADE,Séquence dynamique BLADE pour pancréas
+épaule,CISS,Séquence CISS centrée sur le épaule
+foie,BLADE,BLADE dynamique ciblée sur foie
+pancréas,DWI,DWI dynamique ciblée sur pancréas
+pelvis,TOF,Coupes TOF du pelvis
+cerveau,CISS,IRM fonctionnelle CISS du cerveau
+cerveau,SWI,IRM cerveau séquence SWI post-contraste
+genou,T2,Étude T2 du genou
+coeur,T2,Séquence T2 centrée sur le coeur
+foie,FLAIR,Étude FLAIR du foie
+pelvis,TOF,IRM fonctionnelle TOF du pelvis
+coeur,SWI,Coupes SWI du coeur
+pancréas,DWI,IRM pancréas séquence DWI post-contraste
+foie,TOF,Séquence dynamique TOF pour foie
+poumons,T2,Séquence dynamique T2 pour poumons
+foie,BLADE,BLADE foie sans injection
+foie,BLADE,IRM fonctionnelle BLADE du foie
+épaule,BLADE,BLADE dynamique ciblée sur épaule
+pelvis,BLADE,IRM pelvis - séquence BLADE
+pelvis,DWI,IRM fonctionnelle DWI du pelvis
+reins,TOF,IRM reins séquence TOF post-contraste
+pancréas,BLADE,BLADE pancréas sans injection
+poumons,TOF,IRM poumons séquence TOF post-contraste
+cerveau,ADC,IRM cerveau - séquence ADC
+foie,ADC,IRM ADC foie avec injection
+épaule,DWI,DWI dynamique ciblée sur épaule
+pancréas,BLADE,Séquence BLADE centrée sur le pancréas
+pancréas,3D,Coupes 3D du pancréas
+reins,ADC,ADC dynamique ciblée sur reins
+pancréas,ADC,Séquence dynamique ADC pour pancréas
+pancréas,CISS,IRM fonctionnelle CISS du pancréas
+épaule,3D,IRM 3D axiale épaule
+pancréas,CISS,CISS pancréas sans injection
+foie,SWI,Coupes SWI du foie
+rachis,TOF,Étude TOF du rachis
+poumons,CISS,CISS poumons sans injection
+genou,CISS,Séquence dynamique CISS pour genou
+coeur,T2,IRM T2 coeur avec injection
+reins,BLADE,BLADE dynamique ciblée sur reins
+pancréas,CISS,IRM pancréas séquence CISS post-contraste
+reins,3D,Séquence 3D centrée sur le reins
+coeur,TOF,Séquence dynamique TOF pour coeur
+foie,FLAIR,Étude FLAIR du foie
+épaule,BLADE,IRM épaule séquence BLADE post-contraste
+cerveau,SWI,IRM SWI axiale cerveau
+pancréas,SWI,IRM pancréas - séquence SWI
+épaule,DWI,Étude DWI du épaule
+rachis,TOF,Séquence TOF centrée sur le rachis
+coeur,CISS,IRM CISS coeur avec injection
+épaule,T2,IRM épaule - séquence T2
+coeur,ADC,Coupes ADC du coeur
+genou,3D,Séquence 3D centrée sur le genou
+cerveau,T1,T1 cerveau sans injection
+coeur,ADC,IRM coeur séquence ADC post-contraste
+genou,3D,Séquence dynamique 3D pour genou
+pancréas,TOF,IRM TOF axiale pancréas
+pelvis,TOF,IRM pelvis séquence TOF post-contraste
+rachis,SWI,IRM SWI axiale rachis
+coeur,DWI,IRM DWI coeur avec injection
+pancréas,ADC,Coupes ADC du pancréas
+cerveau,T1,IRM T1 axiale cerveau
+coeur,SWI,IRM fonctionnelle SWI du coeur
+reins,SWI,SWI reins sans injection
+foie,DWI,Étude DWI du foie
+foie,FLAIR,Étude FLAIR du foie
+pelvis,CISS,CISS pelvis sans injection
+coeur,3D,IRM fonctionnelle 3D du coeur
+cerveau,CISS,Étude CISS du cerveau
+cerveau,ADC,ADC cerveau sans injection
+reins,ADC,Coupes ADC du reins
+rachis,BLADE,BLADE dynamique ciblée sur rachis
+pancréas,SWI,IRM fonctionnelle SWI du pancréas
+foie,DWI,IRM DWI foie avec injection
+pelvis,ADC,IRM ADC axiale pelvis
+pelvis,CISS,Coupes CISS du pelvis
+cerveau,BLADE,Coupes BLADE du cerveau
+rachis,TOF,Coupes TOF du rachis
+pelvis,T1,IRM T1 pelvis avec injection
+genou,SWI,SWI dynamique ciblée sur genou
+poumons,SWI,IRM poumons - séquence SWI
+rachis,FLAIR,IRM FLAIR rachis avec injection
+cerveau,ADC,Séquence ADC centrée sur le cerveau
+poumons,CISS,IRM fonctionnelle CISS du poumons
+poumons,TOF,IRM poumons séquence TOF post-contraste
+épaule,3D,IRM 3D épaule avec injection
+poumons,SWI,Coupes SWI du poumons
+poumons,3D,Séquence 3D centrée sur le poumons
+poumons,3D,3D dynamique ciblée sur poumons
+reins,DWI,Étude DWI du reins
+reins,FLAIR,IRM reins - séquence FLAIR
+foie,T1,Étude T1 du foie
+genou,TOF,IRM TOF axiale genou
+reins,ADC,ADC reins sans injection
+foie,TOF,TOF foie sans injection
+poumons,TOF,IRM poumons - séquence TOF
+pelvis,3D,IRM pelvis - séquence 3D
+épaule,SWI,IRM épaule séquence SWI post-contraste
+pancréas,ADC,Séquence ADC centrée sur le pancréas
+coeur,FLAIR,Séquence FLAIR centrée sur le coeur
+genou,TOF,Séquence TOF centrée sur le genou
+rachis,TOF,IRM TOF axiale rachis
+reins,BLADE,BLADE reins sans injection
+coeur,TOF,IRM TOF axiale coeur
+poumons,T2,Étude T2 du poumons
+pancréas,TOF,TOF pancréas sans injection
+coeur,FLAIR,IRM coeur séquence FLAIR post-contraste
+cerveau,FLAIR,IRM fonctionnelle FLAIR du cerveau
+poumons,FLAIR,FLAIR dynamique ciblée sur poumons
+genou,ADC,IRM genou séquence ADC post-contraste
+pancréas,SWI,IRM SWI pancréas avec injection
+pelvis,T2,Séquence T2 centrée sur le pelvis
+reins,TOF,Séquence TOF centrée sur le reins
+poumons,ADC,Coupes ADC du poumons
+cerveau,TOF,IRM TOF cerveau avec injection
+coeur,T1,T1 coeur sans injection
+foie,T2,Coupes T2 du foie
+reins,DWI,Séquence DWI centrée sur le reins
+poumons,BLADE,Coupes BLADE du poumons
+coeur,ADC,Étude ADC du coeur
+rachis,ADC,IRM ADC axiale rachis
+rachis,CISS,CISS rachis sans injection
+cerveau,DWI,Étude DWI du cerveau
+poumons,T2,T2 poumons sans injection
+rachis,BLADE,Coupes BLADE du rachis
+reins,DWI,Étude DWI du reins
+pancréas,T1,IRM pancréas séquence T1 post-contraste
+rachis,3D,Séquence 3D centrée sur le rachis
+épaule,3D,3D dynamique ciblée sur épaule
+rachis,FLAIR,IRM fonctionnelle FLAIR du rachis
+épaule,FLAIR,IRM épaule - séquence FLAIR
+reins,BLADE,BLADE reins sans injection
+coeur,T2,IRM T2 axiale coeur
+genou,BLADE,IRM BLADE axiale genou
+pelvis,SWI,IRM SWI axiale pelvis
+cerveau,FLAIR,FLAIR cerveau sans injection
+coeur,DWI,Séquence dynamique DWI pour coeur
+cerveau,FLAIR,FLAIR dynamique ciblée sur cerveau
+pancréas,DWI,IRM pancréas - séquence DWI
+rachis,3D,Coupes 3D du rachis
+épaule,TOF,Étude TOF du épaule
+coeur,ADC,ADC coeur sans injection
+épaule,3D,Séquence 3D centrée sur le épaule
+foie,SWI,Coupes SWI du foie
+poumons,3D,3D poumons sans injection
+genou,ADC,ADC dynamique ciblée sur genou
+pancréas,TOF,IRM pancréas séquence TOF post-contraste
+foie,ADC,ADC dynamique ciblée sur foie
+coeur,T2,Séquence dynamique T2 pour coeur
+genou,SWI,SWI genou sans injection
+genou,TOF,TOF genou sans injection
+pancréas,FLAIR,Séquence FLAIR centrée sur le pancréas
+reins,SWI,SWI dynamique ciblée sur reins
+rachis,DWI,Séquence DWI centrée sur le rachis
+coeur,DWI,IRM coeur séquence DWI post-contraste
+genou,TOF,IRM TOF axiale genou
+pancréas,T1,T1 dynamique ciblée sur pancréas
+foie,TOF,TOF dynamique ciblée sur foie
+pancréas,BLADE,Séquence BLADE centrée sur le pancréas
+pancréas,TOF,Coupes TOF du pancréas
+pelvis,DWI,IRM pelvis séquence DWI post-contraste
+coeur,CISS,CISS coeur sans injection
+épaule,DWI,Séquence DWI centrée sur le épaule
+poumons,FLAIR,Coupes FLAIR du poumons
+épaule,ADC,IRM épaule séquence ADC post-contraste
+coeur,SWI,Séquence dynamique SWI pour coeur
+foie,ADC,Séquence dynamique ADC pour foie
+foie,ADC,Séquence dynamique ADC pour foie
+cerveau,T1,IRM T1 cerveau avec injection
+pancréas,SWI,IRM pancréas - séquence SWI
+poumons,TOF,TOF dynamique ciblée sur poumons
+pelvis,BLADE,BLADE pelvis sans injection
+coeur,FLAIR,Étude FLAIR du coeur
+rachis,CISS,IRM CISS axiale rachis
+foie,T2,Étude T2 du foie
+reins,BLADE,Coupes BLADE du reins
+rachis,CISS,Coupes CISS du rachis
+rachis,T2,IRM T2 rachis avec injection
+reins,T2,T2 dynamique ciblée sur reins
+coeur,DWI,DWI dynamique ciblée sur coeur
+genou,3D,Étude 3D du genou
+reins,CISS,Séquence dynamique CISS pour reins
+cerveau,TOF,Étude TOF du cerveau
+reins,T2,Coupes T2 du reins
+reins,T2,T2 reins sans injection
+rachis,TOF,Coupes TOF du rachis
+coeur,BLADE,Coupes BLADE du coeur
+épaule,TOF,IRM TOF axiale épaule
+épaule,DWI,IRM fonctionnelle DWI du épaule
+foie,SWI,Étude SWI du foie
+poumons,3D,IRM 3D poumons avec injection
+genou,3D,IRM fonctionnelle 3D du genou
+poumons,3D,IRM 3D axiale poumons
+poumons,CISS,CISS poumons sans injection
+coeur,FLAIR,IRM FLAIR coeur avec injection
+coeur,3D,IRM fonctionnelle 3D du coeur
+reins,3D,Séquence 3D centrée sur le reins
+rachis,FLAIR,Séquence FLAIR centrée sur le rachis
+rachis,DWI,DWI dynamique ciblée sur rachis
+reins,DWI,Séquence dynamique DWI pour reins
+reins,BLADE,BLADE dynamique ciblée sur reins
+poumons,TOF,IRM TOF poumons avec injection
+poumons,CISS,CISS dynamique ciblée sur poumons
+coeur,T1,IRM coeur séquence T1 post-contraste
+pelvis,CISS,CISS pelvis sans injection
+pelvis,3D,Coupes 3D du pelvis
+coeur,DWI,DWI coeur sans injection
+épaule,FLAIR,Séquence FLAIR centrée sur le épaule
+foie,TOF,IRM TOF foie avec injection
+pelvis,TOF,IRM pelvis - séquence TOF
+pancréas,T1,IRM T1 axiale pancréas
+poumons,BLADE,BLADE dynamique ciblée sur poumons
+pelvis,T1,IRM T1 pelvis avec injection
+poumons,SWI,IRM poumons - séquence SWI
+pelvis,CISS,Étude CISS du pelvis
+foie,FLAIR,Séquence dynamique FLAIR pour foie
+cerveau,TOF,TOF dynamique ciblée sur cerveau
+reins,SWI,Étude SWI du reins
+reins,T2,Étude T2 du reins
+foie,T1,IRM foie - séquence T1
+pancréas,3D,IRM pancréas - séquence 3D
+poumons,TOF,Séquence dynamique TOF pour poumons
+cerveau,TOF,Séquence TOF centrée sur le cerveau
+pelvis,DWI,Étude DWI du pelvis
+foie,SWI,Étude SWI du foie
+rachis,FLAIR,Étude FLAIR du rachis
+cerveau,CISS,IRM CISS cerveau avec injection
+épaule,CISS,Séquence CISS centrée sur le épaule
+reins,CISS,IRM fonctionnelle CISS du reins
+rachis,TOF,IRM rachis séquence TOF post-contraste
+reins,TOF,TOF dynamique ciblée sur reins
+reins,BLADE,IRM reins - séquence BLADE
+pelvis,3D,Séquence dynamique 3D pour pelvis
+pelvis,DWI,Séquence dynamique DWI pour pelvis
+cerveau,FLAIR,FLAIR dynamique ciblée sur cerveau
+pancréas,ADC,IRM ADC pancréas avec injection
+épaule,T2,IRM épaule - séquence T2
+pelvis,DWI,Étude DWI du pelvis
+cerveau,DWI,Étude DWI du cerveau
+épaule,FLAIR,Coupes FLAIR du épaule
+épaule,CISS,IRM CISS épaule avec injection
+pelvis,TOF,Séquence TOF centrée sur le pelvis
+genou,3D,Séquence 3D centrée sur le genou
+genou,DWI,Coupes DWI du genou
+foie,SWI,Séquence dynamique SWI pour foie
+reins,DWI,IRM fonctionnelle DWI du reins
+foie,CISS,IRM foie séquence CISS post-contraste
+reins,DWI,Coupes DWI du reins
+pelvis,3D,Séquence dynamique 3D pour pelvis
+pelvis,TOF,Étude TOF du pelvis
+foie,CISS,IRM foie séquence CISS post-contraste
+poumons,TOF,IRM TOF axiale poumons
+poumons,CISS,Séquence dynamique CISS pour poumons
+épaule,3D,3D épaule sans injection
+poumons,BLADE,IRM poumons - séquence BLADE
+pancréas,SWI,IRM pancréas séquence SWI post-contraste
+pancréas,TOF,Séquence dynamique TOF pour pancréas
+pelvis,SWI,SWI pelvis sans injection
+rachis,DWI,DWI dynamique ciblée sur rachis
+genou,T2,T2 dynamique ciblée sur genou
+coeur,CISS,IRM coeur - séquence CISS
+reins,DWI,IRM fonctionnelle DWI du reins
+coeur,CISS,CISS dynamique ciblée sur coeur
+foie,TOF,IRM foie - séquence TOF
+épaule,BLADE,Coupes BLADE du épaule
+pancréas,3D,Coupes 3D du pancréas
+rachis,T2,Coupes T2 du rachis
+épaule,SWI,IRM épaule séquence SWI post-contraste
+poumons,TOF,IRM TOF poumons avec injection
+pelvis,3D,3D pelvis sans injection
+genou,T1,Étude T1 du genou
+reins,T1,IRM T1 reins avec injection
+cerveau,3D,Coupes 3D du cerveau
+pelvis,CISS,IRM pelvis - séquence CISS
+cerveau,CISS,Coupes CISS du cerveau
+pelvis,T2,IRM pelvis - séquence T2
+reins,SWI,IRM fonctionnelle SWI du reins
+reins,BLADE,BLADE dynamique ciblée sur reins
+reins,TOF,Séquence dynamique TOF pour reins
+coeur,FLAIR,FLAIR coeur sans injection
+épaule,T2,Coupes T2 du épaule
+reins,CISS,CISS dynamique ciblée sur reins
+pelvis,BLADE,IRM BLADE pelvis avec injection
+pancréas,DWI,IRM pancréas - séquence DWI
+rachis,ADC,Séquence ADC centrée sur le rachis
+rachis,ADC,IRM ADC rachis avec injection
+poumons,3D,IRM poumons - séquence 3D
+coeur,FLAIR,Séquence FLAIR centrée sur le coeur
+reins,TOF,Étude TOF du reins
+pelvis,DWI,IRM pelvis - séquence DWI
+genou,T2,Séquence T2 centrée sur le genou
+pelvis,T2,T2 pelvis sans injection
+poumons,DWI,IRM DWI axiale poumons
+poumons,ADC,Séquence dynamique ADC pour poumons
+poumons,SWI,IRM poumons séquence SWI post-contraste
+coeur,DWI,DWI coeur sans injection
+foie,FLAIR,Coupes FLAIR du foie
+cerveau,BLADE,Séquence BLADE centrée sur le cerveau
+poumons,SWI,Séquence SWI centrée sur le poumons
+épaule,SWI,Séquence SWI centrée sur le épaule
+poumons,TOF,IRM poumons séquence TOF post-contraste
+épaule,BLADE,IRM épaule - séquence BLADE
+coeur,FLAIR,IRM coeur séquence FLAIR post-contraste
+cerveau,T2,Séquence dynamique T2 pour cerveau
+épaule,T2,Séquence dynamique T2 pour épaule
+épaule,T1,T1 épaule sans injection
+rachis,FLAIR,Étude FLAIR du rachis
+épaule,3D,IRM 3D axiale épaule
+coeur,ADC,Coupes ADC du coeur
+coeur,CISS,IRM coeur séquence CISS post-contraste
+cerveau,T1,IRM fonctionnelle T1 du cerveau
+reins,BLADE,Étude BLADE du reins
+pancréas,T1,Séquence T1 centrée sur le pancréas
+rachis,ADC,IRM rachis séquence ADC post-contraste
+reins,T2,T2 reins sans injection
+foie,SWI,SWI dynamique ciblée sur foie
+coeur,3D,IRM coeur séquence 3D post-contraste
+genou,ADC,ADC dynamique ciblée sur genou
+pelvis,ADC,IRM ADC axiale pelvis
+poumons,BLADE,Séquence dynamique BLADE pour poumons
+foie,SWI,SWI foie sans injection
+genou,BLADE,IRM BLADE genou avec injection
+coeur,DWI,DWI coeur sans injection
+genou,SWI,SWI dynamique ciblée sur genou
+épaule,DWI,DWI épaule sans injection
+foie,TOF,Séquence TOF centrée sur le foie
+genou,SWI,IRM SWI genou avec injection
+reins,TOF,Séquence dynamique TOF pour reins
+cerveau,ADC,Coupes ADC du cerveau
+coeur,SWI,SWI coeur sans injection
+coeur,T2,Coupes T2 du coeur
+pancréas,T1,Séquence T1 centrée sur le pancréas
+reins,3D,IRM 3D axiale reins
+rachis,3D,IRM rachis - séquence 3D
+pelvis,SWI,SWI pelvis sans injection
+rachis,FLAIR,IRM FLAIR rachis avec injection
+foie,CISS,Séquence dynamique CISS pour foie
+cerveau,BLADE,BLADE cerveau sans injection
+genou,T2,IRM genou séquence T2 post-contraste
+foie,DWI,IRM foie - séquence DWI
+pelvis,3D,IRM pelvis - séquence 3D
+coeur,T1,Séquence T1 centrée sur le coeur
+genou,T1,Séquence dynamique T1 pour genou
+cerveau,FLAIR,FLAIR dynamique ciblée sur cerveau
+reins,3D,Étude 3D du reins
+rachis,SWI,IRM SWI axiale rachis
+reins,FLAIR,Séquence dynamique FLAIR pour reins
+cerveau,3D,Coupes 3D du cerveau
+foie,SWI,SWI foie sans injection
+foie,SWI,IRM fonctionnelle SWI du foie
+genou,CISS,IRM CISS genou avec injection
+pelvis,DWI,IRM DWI pelvis avec injection
+rachis,3D,IRM rachis séquence 3D post-contraste
+foie,FLAIR,IRM fonctionnelle FLAIR du foie
+pelvis,ADC,Étude ADC du pelvis
+foie,TOF,IRM foie - séquence TOF
+rachis,3D,IRM rachis - séquence 3D
+coeur,T1,T1 dynamique ciblée sur coeur
+pancréas,SWI,SWI dynamique ciblée sur pancréas
+pelvis,DWI,IRM pelvis - séquence DWI
+épaule,ADC,IRM fonctionnelle ADC du épaule
+rachis,SWI,SWI rachis sans injection
+rachis,CISS,Coupes CISS du rachis
+rachis,CISS,Séquence CISS centrée sur le rachis
+poumons,DWI,IRM poumons séquence DWI post-contraste
+foie,TOF,IRM foie séquence TOF post-contraste
+poumons,DWI,Séquence dynamique DWI pour poumons
+cerveau,TOF,Séquence TOF centrée sur le cerveau
+cerveau,T1,IRM T1 cerveau avec injection
+cerveau,DWI,Étude DWI du cerveau
+genou,T1,Séquence T1 centrée sur le genou
+épaule,FLAIR,IRM épaule - séquence FLAIR
+poumons,TOF,IRM TOF poumons avec injection
+pancréas,FLAIR,Séquence dynamique FLAIR pour pancréas
+reins,FLAIR,FLAIR reins sans injection
+cerveau,3D,IRM 3D axiale cerveau
+poumons,T1,IRM T1 poumons avec injection
+reins,3D,3D dynamique ciblée sur reins
+poumons,DWI,Coupes DWI du poumons
+pelvis,FLAIR,FLAIR pelvis sans injection
+pelvis,TOF,Séquence TOF centrée sur le pelvis
+rachis,BLADE,Séquence dynamique BLADE pour rachis
+coeur,FLAIR,IRM coeur - séquence FLAIR
+coeur,T1,IRM T1 coeur avec injection
+coeur,T2,Étude T2 du coeur
+épaule,T2,IRM épaule - séquence T2
+pelvis,BLADE,IRM BLADE axiale pelvis
+cerveau,SWI,Séquence dynamique SWI pour cerveau
+reins,DWI,DWI dynamique ciblée sur reins
+foie,DWI,Séquence DWI centrée sur le foie
+coeur,BLADE,BLADE coeur sans injection
+poumons,SWI,IRM poumons séquence SWI post-contraste
+coeur,TOF,IRM TOF coeur avec injection
+rachis,3D,Étude 3D du rachis
+reins,T2,Séquence T2 centrée sur le reins
+reins,T2,IRM T2 reins avec injection
+pancréas,CISS,IRM pancréas - séquence CISS
+reins,SWI,IRM reins séquence SWI post-contraste
+coeur,T2,IRM coeur séquence T2 post-contraste
+poumons,T2,IRM poumons séquence T2 post-contraste
+foie,TOF,Étude TOF du foie
+reins,DWI,DWI dynamique ciblée sur reins
+coeur,T2,IRM coeur séquence T2 post-contraste
+épaule,TOF,Séquence TOF centrée sur le épaule
+pancréas,CISS,IRM pancréas - séquence CISS
+épaule,CISS,CISS dynamique ciblée sur épaule
+cerveau,3D,Coupes 3D du cerveau
+cerveau,SWI,Étude SWI du cerveau
+pancréas,T2,IRM T2 axiale pancréas
+foie,CISS,Coupes CISS du foie
+genou,BLADE,BLADE genou sans injection
+poumons,BLADE,IRM fonctionnelle BLADE du poumons
+cerveau,TOF,IRM TOF axiale cerveau
+cerveau,SWI,IRM cerveau séquence SWI post-contraste
+poumons,T1,Séquence dynamique T1 pour poumons
+pelvis,SWI,Séquence SWI centrée sur le pelvis
+cerveau,CISS,Séquence dynamique CISS pour cerveau
+coeur,CISS,IRM fonctionnelle CISS du coeur
+cerveau,ADC,IRM ADC axiale cerveau
+foie,T2,Séquence T2 centrée sur le foie
+reins,ADC,ADC dynamique ciblée sur reins
+poumons,3D,3D poumons sans injection
+épaule,TOF,Séquence dynamique TOF pour épaule
+rachis,TOF,IRM TOF rachis avec injection
+foie,DWI,Séquence DWI centrée sur le foie
+foie,DWI,IRM DWI foie avec injection
+foie,CISS,IRM foie - séquence CISS
+pancréas,DWI,IRM DWI pancréas avec injection
+rachis,DWI,Étude DWI du rachis
+pancréas,ADC,Coupes ADC du pancréas
+reins,FLAIR,FLAIR dynamique ciblée sur reins
+poumons,ADC,IRM poumons séquence ADC post-contraste
+épaule,SWI,Séquence dynamique SWI pour épaule
+rachis,CISS,IRM CISS rachis avec injection
+rachis,ADC,Séquence dynamique ADC pour rachis
+genou,3D,IRM 3D genou avec injection
+rachis,FLAIR,IRM FLAIR rachis avec injection
+épaule,ADC,IRM ADC axiale épaule
+reins,T2,T2 reins sans injection
+reins,TOF,IRM reins séquence TOF post-contraste
+pelvis,TOF,TOF dynamique ciblée sur pelvis
+cerveau,BLADE,BLADE dynamique ciblée sur cerveau
+rachis,T2,Coupes T2 du rachis
+pancréas,CISS,Étude CISS du pancréas
+foie,3D,Coupes 3D du foie
+épaule,FLAIR,FLAIR épaule sans injection
+cerveau,CISS,IRM fonctionnelle CISS du cerveau
+cerveau,SWI,IRM fonctionnelle SWI du cerveau
+pancréas,SWI,Étude SWI du pancréas
+pelvis,FLAIR,Étude FLAIR du pelvis
+épaule,FLAIR,IRM fonctionnelle FLAIR du épaule
+pelvis,BLADE,BLADE pelvis sans injection
+cerveau,3D,Blade Runner
+foie,SWI,Star Wars: Empire
+pancréas,CISS,Inception
+coeur,3D,Interstellar
+genou,SWI,The Matrix
+foie,CISS,2001: L’Odyssée de l’espace
+reins,SWI,Arrival
+foie,ADC,Ex Machina
+reins,BLADE,District 9
+foie,CISS,Minority Report
+pancréas,T2,Ghost in the Shell
+pancréas,SWI,The Terminator
+reins,TOF,Dune
+pancréas,SWI,Edge of Tomorrow
+épaule,FLAIR,Sunshine
+rachis,3D,Ready Player One
+pelvis,TOF,Snowpiercer
+reins,TOF,Moon
+genou,3D,Gattaca
+cerveau,ADC,Annihilation
+coeur,ADC,The Fifth Element
+cerveau,FLAIR,Solaris
+rachis,CISS,AI Intelligence
+pancréas,T1,Predestination
+foie,T2,Her
+reins,FLAIR,The Man from Earth
+reins,3D,Coherence
+pelvis,ADC,Children of Men
+foie,BLADE,Under the Skin
+coeur,BLADE,Upgrade
+foie,3D,Timecrimes
+genou,BLADE,Paprika
+poumons,DWI,Donnie Darko
+genou,FLAIR,I Am Mother
+rachis,SWI,The Lobster
+épaule,T2,Oblivion
+coeur,3D,Total Recall
+reins,DWI,Alita
+foie,3D,Lucy
+pelvis,ADC,War of the Worlds
+cerveau,SWI,Stalker
+genou,TOF,Dark City
+pancréas,TOF,The Signal
+genou,T2,Fantastic Planet
+foie,T2,The Endless
+poumons,ADC,Metropolis
+cerveau,BLADE,Prospect
+pancréas,CISS,Silent Running
+coeur,BLADE,Chronicle
+poumons,T2,"Love, Death & Robots"
