@@ -1,0 +1,52 @@
+{
+    "WXXWY WuXi Biologics (Cayman) Inc.": {
+        "price": "5.45",
+        "change": "+0.69",
+        "change_percent": "+14.50%"
+    },
+    "JBLU JetBlue Airways Corporation": {
+        "price": "7.30",
+        "change": "+0.91",
+        "change_percent": "+14.24%"
+    },
+    "EVGO EVgo, Inc.": {
+        "price": "7.20",
+        "change": "+0.88",
+        "change_percent": "+13.92%"
+    },
+    "B Barnes Group Inc.": {
+        "price": "45.26",
+        "change": "+5.20",
+        "change_percent": "+12.98%"
+    },
+    "ASTS AST SpaceMobile, Inc.": {
+        "price": "26.11",
+        "change": "+2.89",
+        "change_percent": "+12.45%"
+    },
+    "NFE New Fortress Energy Inc.": {
+        "price": "10.09",
+        "change": "+1.06",
+        "change_percent": "+11.74%"
+    },
+    "ENVX Enovix Corporation": {
+        "price": "11.88",
+        "change": "+1.23",
+        "change_percent": "+11.55%"
+    },
+    "CLSK CleanSpark, Inc.": {
+        "price": "9.58",
+        "change": "+0.92",
+        "change_percent": "+10.62%"
+    },
+    "MMYT MakeMyTrip Limited": {
+        "price": "99.37",
+        "change": "+9.01",
+        "change_percent": "+9.97%"
+    },
+    "WB Weibo Corporation": {
+        "price": "11.65",
+        "change": "+1.05",
+        "change_percent": "+9.91%"
+    }
+}
