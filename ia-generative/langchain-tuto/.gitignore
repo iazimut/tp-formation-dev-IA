@@ -1,0 +1,26 @@
+# Environnement Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# VectorStore local
+*.faiss
+faiss_index/
+
+# OS
+.DS_Store
+Thumbs.db
+
